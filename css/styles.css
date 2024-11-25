@@ -1,0 +1,2522 @@
+.bright.page-section {
+   color: #fff
+}
+
+.bright.page-section.background-width--inset {
+    background-color: #f6f5ea
+}
+
+.bright:not(.has-background) .section-background {
+    background-color: #9c9a81
+}
+
+.bright h1 {
+    color: #fff
+}
+
+.bright h2 {
+    color: #fff
+}
+
+.bright h3 {
+    color: #fff
+}
+
+.bright h4 {
+    color: #fff
+}
+
+.bright .sqsrte-large {
+    color: #fff
+}
+
+.bright .sqsrte-small {
+    color: #fff
+}
+
+.bright .sqs-block-html.sqs-background-enabled, .bright .sqs-block-marquee.sqs-background-enabled {
+    background-color: #fff
+}
+
+.bright .sqs-block-html.sqs-background-enabled p.sqsrte-large, .bright .sqs-block-marquee.sqs-background-enabled p.sqsrte-large {
+    color: #9c9a81
+}
+
+.bright .sqs-block-html.sqs-background-enabled p, .bright .sqs-block-marquee.sqs-background-enabled p, .bright .sqs-block-html.sqs-background-enabled code, .bright .sqs-block-marquee.sqs-background-enabled code {
+    color: #9c9a81
+}
+
+.bright .sqs-block-html.sqs-background-enabled p.sqsrte-small, .bright .sqs-block-marquee.sqs-background-enabled p.sqsrte-small {
+    color: #9c9a81
+}
+
+.bright .sqs-block-html.sqs-background-enabled h1, .bright .sqs-block-marquee.sqs-background-enabled h1 {
+    color: #9c9a81
+}
+
+.bright .sqs-block-html.sqs-background-enabled h2, .bright .sqs-block-marquee.sqs-background-enabled h2 {
+    color: #9c9a81
+}
+
+.bright .sqs-block-html.sqs-background-enabled h3, .bright .sqs-block-marquee.sqs-background-enabled h3 {
+    color: #9c9a81
+}
+
+.bright .sqs-block-html.sqs-background-enabled h4, .bright .sqs-block-marquee.sqs-background-enabled h4 {
+    color: #9c9a81
+}
+
+.bright .sqs-block-html a, .bright .read-more-link, .bright .entry-excerpt a, .bright .blog-excerpt a, .bright .eventlist-excerpt a, .bright .sqs-block-newsletter .newsletter-form-header a, .bright .sqs-block-newsletter .newsletter-form-footnote a, .bright .sqs-block-newsletter .form-submission-text a, .bright .sqs-block-form .form-submission-text a, .bright .sqs-block-accordion .accordion-item__description a {
+    color: #fff
+}
+
+.bright :focus, .bright a:focus {
+    outline-color: #fff
+}
+
+.bright .sqs-search-page-input.focus-within {
+    outline-color: #fff
+}
+
+.bright .sqs-search-page-input:focus-within {
+    outline-color: #fff
+}
+
+.bright .header[data-first-focusable-element][data-focus-visible-added] .header-announcement-bar-wrapper {
+    outline-color: #fff
+}
+
+.bright .ProductItem .variant-radiobtn[data-focus-visible-added] + label {
+    outline-color: #fff
+}
+
+.bright #pdp .star {
+    fill: #fff
+}
+
+.bright #pdp .star path {
+    fill: #fff
+}
+
+.bright .product-item-gallery-carousel-control:focus {
+    outline-color: #000
+}
+
+.bright .sqs-modal-lightbox :focus {
+    outline-color: #000
+}
+
+.bright .sqs-modal-lightbox.sqs-product-quick-view-lightbox :focus {
+    outline-color: #000
+}
+
+.bright .sqs-modal-lightbox.sqs-product-quick-view-lightbox .sqs-product-quick-view-content :focus {
+    outline-color: #fff
+}
+
+.bright .sqs-modal-lightbox.sqs-product-quick-view-lightbox .sqs-product-quick-view-content .product-item-gallery-carousel-control:focus {
+    outline-color: #000
+}
+
+.primary-button-style-solid .bright .sqs-button-element--primary, .primary-button-style-solid .bright .comment-btn-wrapper .sqs-button-element--primary.comment-btn, .primary-button-style-solid .bright div#Tock_widget_container > div.TockWidgetWrapper .TockButton-blue.sqs-button-element--primary {
+    color: #9c9a81;
+    background-color: #fff;
+    border-color: #fff
+}
+
+.primary-button-style-solid .with-button-variants .bright .sqs-button-element--primary, .primary-button-style-solid .with-button-variants .bright .comment-btn-wrapper .sqs-button-element--primary.comment-btn, .primary-button-style-solid .with-button-variants .bright div#Tock_widget_container > div.TockWidgetWrapper .TockButton-blue.sqs-button-element--primary {
+    color: #9c9a81;
+    background-color: #fff;
+    border-color: #9c9a81
+}
+
+.site-wrapper:not(.with-button-variants) .bright .sqs-button-element--secondary, .site-wrapper:not(.with-button-variants) .bright .sqs-button-element--tertiary {
+    color: #9c9a81;
+    background-color: #fff;
+    border-color: #fff
+}
+
+.bright .ma-pricing-toggle-wrapper .ma-pricing-options .ma-pricing-option-button.sqs-button-element--primary {
+    color: #fff;
+    border: 1px solid #fff
+}
+
+@media (hover: hover) {
+    .bright .ma-pricing-toggle-wrapper .ma-pricing-options .ma-pricing-option-button.sqs-button-element--primary:hover {
+        background-color: #fff;
+        color: #9c9a81
+    }
+}
+
+.bright .ma-pricing-toggle-wrapper .ma-pricing-options .ma-pricing-option-selected.sqs-button-element--primary {
+    color: #9c9a81;
+    background-color: #fff
+}
+
+.bright .ma-pricing-toggle-wrapper .ma-pricing-options .ma-pricing-option-button.sqs-button-element--secondary {
+    color: #fff;
+    border: 1px solid #fff
+}
+
+@media (hover: hover) {
+    .bright .ma-pricing-toggle-wrapper .ma-pricing-options .ma-pricing-option-button.sqs-button-element--secondary:hover {
+        background-color: #fff;
+        color: #9c9a81
+    }
+}
+
+.bright .ma-pricing-toggle-wrapper .ma-pricing-options .ma-pricing-option-selected.sqs-button-element--secondary {
+    color: #9c9a81;
+    background-color: #fff
+}
+
+.bright .ma-pricing-toggle-wrapper .ma-pricing-options .ma-pricing-option-button.sqs-button-element--tertiary {
+    color: #fff;
+    border: 1px solid #fff
+}
+
+@media (hover: hover) {
+    .bright .ma-pricing-toggle-wrapper .ma-pricing-options .ma-pricing-option-button.sqs-button-element--tertiary:hover {
+        background-color: #fff;
+        color: #9c9a81
+    }
+}
+
+.bright .ma-pricing-toggle-wrapper .ma-pricing-options .ma-pricing-option-selected.sqs-button-element--tertiary {
+    color: #9c9a81;
+    background-color: #fff
+}
+
+.secondary-button-style-solid .with-button-variants .bright .sqs-button-element--secondary, .secondary-button-style-solid .with-button-variants .bright .tock-block div#Tock_widget_container > div.TockWidgetWrapper .TockButton-blue.sqs-button-element--secondary {
+    color: #9c9a81;
+    background: #fff;
+    border-color: #9c9a81
+}
+
+.secondary-button-style-underline .with-button-variants .bright .sqs-button-element--secondary, .secondary-button-style-underline .with-button-variants .bright .tock-block div#Tock_widget_container > div.TockWidgetWrapper .TockButton-blue.sqs-button-element--secondary {
+    border-color: #fff
+}
+
+.secondary-button-style-outline .with-button-variants .bright .sqs-button-element--secondary, .secondary-button-style-outline .with-button-variants .bright .tock-block div#Tock_widget_container > div.TockWidgetWrapper .TockButton-blue.sqs-button-element--secondary {
+    color: #fff;
+    border-color: #fff
+}
+
+@media (hover: hover) {
+    .secondary-button-style-outline .with-button-variants .bright .sqs-button-element--secondary:hover, .secondary-button-style-outline .with-button-variants .bright .tock-block div#Tock_widget_container > div.TockWidgetWrapper .TockButton-blue.sqs-button-element--secondary:hover {
+        background: #fff;
+        color: #9c9a81
+    }
+}
+
+.tertiary-button-style-solid .with-button-variants .bright .sqs-button-element--tertiary, .tertiary-button-style-solid .with-button-variants .bright .tock-block div#Tock_widget_container > div.TockWidgetWrapper .TockButton-blue.sqs-button-element--tertiary {
+    color: #9c9a81;
+    background: #fff;
+    border-color: #9c9a81
+}
+
+.tertiary-button-style-underline .with-button-variants .bright .sqs-button-element--tertiary, .tertiary-button-style-underline .with-button-variants .bright .tock-block div#Tock_widget_container > div.TockWidgetWrapper .TockButton-blue.sqs-button-element--tertiary {
+    border-color: #fff
+}
+
+.tertiary-button-style-outline .with-button-variants .bright .sqs-button-element--tertiary, .tertiary-button-style-outline .with-button-variants .bright .tock-block div#Tock_widget_container > div.TockWidgetWrapper .TockButton-blue.sqs-button-element--tertiary {
+    color: #fff;
+    border-color: #fff
+}
+
+@media (hover: hover) {
+    .tertiary-button-style-outline .with-button-variants .bright .sqs-button-element--tertiary:hover, .tertiary-button-style-outline .with-button-variants .bright .tock-block div#Tock_widget_container > div.TockWidgetWrapper .TockButton-blue.sqs-button-element--tertiary:hover {
+        background: #fff;
+        color: #9c9a81
+    }
+}
+
+.primary-button-style-outline .site-wrapper:not(.with-button-variants) .bright .sqs-button-element--secondary, .primary-button-style-outline .site-wrapper:not(.with-button-variants) .bright .sqs-button-element--tertiary {
+    color: #fff;
+    border-color: #fff
+}
+
+@media (hover: hover) {
+    .primary-button-style-outline .site-wrapper:not(.with-button-variants) .bright .sqs-button-element--secondary:hover, .primary-button-style-outline .site-wrapper:not(.with-button-variants) .bright .sqs-button-element--tertiary:hover {
+        background: #fff;
+        color: #9c9a81
+    }
+}
+
+.primary-button-style-outline .bright .sqs-button-element--primary, .primary-button-style-outline .bright .sqs-button-element--primary.comment-btn, .primary-button-style-outline .bright .sqs-modal-lightbox .sqs-modal-lightbox-content .sqs-button-element--primary, .primary-button-style-outline .bright div#Tock_widget_container > div.TockWidgetWrapper .TockButton-blue.sqs-button-element--primary {
+    color: #fff;
+    border-color: #fff
+}
+
+@media (hover: hover) {
+    .primary-button-style-outline .bright .sqs-button-element--primary:hover, .primary-button-style-outline .bright .sqs-button-element--primary.comment-btn:hover, .primary-button-style-outline .bright .sqs-modal-lightbox .sqs-modal-lightbox-content .sqs-button-element--primary:hover, .primary-button-style-outline .bright div#Tock_widget_container > div.TockWidgetWrapper .TockButton-blue.sqs-button-element--primary:hover {
+        background: #fff;
+        color: #9c9a81
+    }
+}
+
+.primary-button-style-outline.primary-button-shape-underline .site-wrapper:not(.with-button-variants) .bright .sqs-button-element--secondary, .primary-button-style-outline.primary-button-shape-underline .site-wrapper:not(.with-button-variants) .bright .sqs-button-element--tertiary {
+    border-color: #fff
+}
+
+@media (hover: hover) {
+    .primary-button-style-outline.primary-button-shape-underline .site-wrapper:not(.with-button-variants) .bright .sqs-button-element--secondary:hover, .primary-button-style-outline.primary-button-shape-underline .site-wrapper:not(.with-button-variants) .bright .sqs-button-element--tertiary:hover {
+        border-color: #9c9a81
+    }
+}
+
+.primary-button-style-outline.primary-button-shape-underline .bright .sqs-button-element--primary, .primary-button-style-outline.primary-button-shape-underline .bright div#Tock_widget_container > div.TockWidgetWrapper .TockButton-blue.sqs-button-element--primary {
+    border-color: #fff
+}
+
+@media (hover: hover) {
+    .primary-button-style-outline.primary-button-shape-underline .bright .sqs-button-element--primary:hover, .primary-button-style-outline.primary-button-shape-underline .bright div#Tock_widget_container > div.TockWidgetWrapper .TockButton-blue.sqs-button-element--primary:hover {
+        border-color: #9c9a81
+    }
+}
+
+.primary-button-style-solid.primary-button-shape-underline .bright .sqs-button-element--primary, .primary-button-style-solid.primary-button-shape-underline .bright .sqs-button-element--primary.comment-btn, .primary-button-style-solid.primary-button-shape-underline .bright div#Tock_widget_container > div.TockWidgetWrapper .TockButton-blue.sqs-button-element--primary {
+    color: #fff;
+    background-color: #9c9a81;
+    border-color: #fff
+}
+
+.primary-button-style-solid.primary-button-shape-underline .site-wrapper:not(.with-button-variants) .bright .sqs-button-element--secondary, .primary-button-style-solid.primary-button-shape-underline .site-wrapper:not(.with-button-variants) .bright .sqs-button-element--tertiary {
+    color: #fff;
+    background-color: #9c9a81;
+    border-color: #fff
+}
+
+.secondary-button-style-solid.secondary-button-shape-underline .with-button-variants .bright .sqs-button-element--secondary, .secondary-button-style-solid.secondary-button-shape-underline .with-button-variants .bright div#Tock_widget_container > div.TockWidgetWrapper .TockButton-blue.sqs-button-element--secondary {
+    color: #fff;
+    background-color: #9c9a81;
+    border-color: #fff
+}
+
+.secondary-button-style-outline.secondary-button-shape-underline .with-button-variants .bright .sqs-button-element--secondary, .secondary-button-style-outline.secondary-button-shape-underline .with-button-variants .bright div#Tock_widget_container > div.TockWidgetWrapper .TockButton-blue.sqs-button-element--secondary {
+    border-color: #fff
+}
+
+@media (hover: hover) {
+    .secondary-button-style-outline.secondary-button-shape-underline .with-button-variants .bright .sqs-button-element--secondary:hover, .secondary-button-style-outline.secondary-button-shape-underline .with-button-variants .bright div#Tock_widget_container > div.TockWidgetWrapper .TockButton-blue.sqs-button-element--secondary:hover {
+        border-color: #9c9a81
+    }
+}
+
+.tertiary-button-style-solid.tertiary-button-shape-underline .with-button-variants .bright .sqs-button-element--tertiary, .tertiary-button-style-solid.tertiary-button-shape-underline .with-button-variants .bright div#Tock_widget_container > div.TockWidgetWrapper .TockButton-blue.sqs-button-element--tertiary {
+    color: #fff;
+    background-color: #9c9a81;
+    border-color: #fff
+}
+
+.tertiary-button-style-outline.tertiary-button-shape-underline .with-button-variants .bright .sqs-button-element--tertiary, .tertiary-button-style-outline.tertiary-button-shape-underline .with-button-variants .bright div#Tock_widget_container > div.TockWidgetWrapper .TockButton-blue.sqs-button-element--tertiary {
+    border-color: #fff
+}
+
+@media (hover: hover) {
+    .tertiary-button-style-outline.tertiary-button-shape-underline .with-button-variants .bright .sqs-button-element--tertiary:hover, .tertiary-button-style-outline.tertiary-button-shape-underline .with-button-variants .bright div#Tock_widget_container > div.TockWidgetWrapper .TockButton-blue.sqs-button-element--tertiary:hover {
+        border-color: #9c9a81
+    }
+}
+
+.bright .sqs-block-horizontalrule hr {
+    background-color: #fff
+}
+
+.bright .section-background-overlay {
+    background-color: #9c9a81
+}
+
+.bright .floating-cart {
+    background-color: #fff;
+    color: #9c9a81
+}
+
+.bright .floating-cart :focus {
+    outline-color: #9c9a81
+}
+
+.bright .floating-cart .icon--stroke svg {
+    stroke: #9c9a81
+}
+
+.tweak-transparent-header .sections .bright.page-section:first-child.background-width--full-bleed.has-background .section-background:after {
+    content: '';
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: linear-gradient(#9c9a81, 150px, transparent);
+    opacity: .05
+}
+
+[data-header-style="theme"].header.bright, [data-header-style="dynamic"].header.bright {
+    background-color: #9c9a81
+}
+
+body:not(.header--menu-open) .bright .header-title-text a {
+    color: #fff
+}
+
+body:not(.header--menu-open) .bright .header-nav-folder-content, body:not(.header--menu-open) .bright .language-picker-content {
+    background-color: #9c9a81
+}
+
+body:not(.header--menu-open) .bright .header-nav-wrapper a {
+    color: #fff
+}
+
+body:not(.header--menu-open) .bright .header-nav-wrapper .header-nav-item--active a {
+    color: #fff
+}
+
+body:not(.header--menu-open) .bright .header-border[data-header-style="dynamic"] {
+    border: solid #fff
+}
+
+body:not(.header--menu-open) .bright .language-picker {
+    color: #fff
+}
+
+body:not(.header--menu-open) .bright .user-accounts-text-link {
+    color: #fff
+}
+
+body:not(.header--menu-open) .bright .cart-text-link {
+    color: #fff
+}
+
+body:not(.header--menu-open) .bright .burger-inner .top-bun, body:not(.header--menu-open) .bright .burger-inner .patty, body:not(.header--menu-open) .bright .burger-inner .bottom-bun {
+    background-color: #fff
+}
+
+body:not(.header--menu-open) .bright .header-actions .icon--stroke svg {
+    stroke: #fff
+}
+
+body:not(.header--menu-open) .bright .header-actions .icon--fill svg {
+    fill: #fff
+}
+
+body:not(.header--menu-open) .bright .header-actions .icon-cart-quantity {
+    color: #fff
+}
+
+body:not(.header--menu-open) .bright .header-nav-item--active a {
+    background-image: linear-gradient(to right, currentColor 100%, currentColor 0)
+}
+
+body.header--menu-open .header.bright .header-title-text a {
+    color: #fff
+}
+
+body.header--menu-open .header.bright .header-burger .top-bun, body.header--menu-open .header.bright .header-burger .patty, body.header--menu-open .header.bright .header-burger .bottom-bun {
+    background-color: #fff
+}
+
+body.header--menu-open .header.bright .header-nav-folder-content, body.header--menu-open .header.bright .language-picker-content {
+    background-color: #9c9a81
+}
+
+body.header--menu-open .header.bright .header-nav-wrapper a {
+    color: #fff
+}
+
+body.header--menu-open .header.bright .header-nav-wrapper .header-menu-nav-item--active a, body.header--menu-open .header.bright .header-nav-wrapper .header-nav-item--active a {
+    color: #fff
+}
+
+body.header--menu-open .header.bright .user-accounts-text-link {
+    color: #fff
+}
+
+body.header--menu-open .header.bright .cart-text-link {
+    color: #fff
+}
+
+body.header--menu-open .header.bright .header-actions .icon--stroke svg {
+    stroke: #fff
+}
+
+body.header--menu-open .header.bright .header-actions .icon--fill svg {
+    fill: #fff
+}
+
+body.header--menu-open .header.bright .header-actions .icon-cart-quantity {
+    color: #fff
+}
+
+.site-wrapper .header-menu.bright .header-menu-bg {
+    background-color: #9c9a81
+}
+
+.site-wrapper .header-menu.bright .header-menu-nav a:not(.btn) {
+    color: #fff
+}
+
+.site-wrapper .header-menu.bright .header-menu-nav .header-menu-nav-item--active a, .site-wrapper .header-menu.bright .header-menu-nav .header-nav-item--active a {
+    color: #fff
+}
+
+.site-wrapper .header-menu.bright .header-menu-cta a {
+    color: #9c9a81;
+    background-color: #fff;
+    border-color: #fff
+}
+
+.primary-button-style-solid.primary-button-shape-underline .header-menu.bright .header-menu-cta .sqs-button-element--primary, .secondary-button-style-solid.secondary-button-shape-underline .with-button-variants .header-menu.bright .header-menu-cta .sqs-button-element--secondary, .tertiary-button-style-solid.tertiary-button-shape-underline .with-button-variants .header-menu.bright .header-menu-cta .sqs-button-element--tertiary {
+    color: #fff;
+    background-color: #9c9a81;
+    border-color: #fff
+}
+
+.primary-button-style-outline .header-menu.bright .header-menu-cta a.sqs-button-element--primary, .secondary-button-style-outline .with-button-variants .header-menu.bright .header-menu-cta a.sqs-button-element--secondary, .tertiary-button-style-outline .with-button-variants .header-menu.bright .header-menu-cta a.sqs-button-element--tertiary {
+    color: #fff;
+    border-color: #fff
+}
+
+@media (hover: hover) {
+    .primary-button-style-outline .header-menu.bright .header-menu-cta a.sqs-button-element--primary:hover, .secondary-button-style-outline .with-button-variants .header-menu.bright .header-menu-cta a.sqs-button-element--secondary:hover, .tertiary-button-style-outline .with-button-variants .header-menu.bright .header-menu-cta a.sqs-button-element--tertiary:hover {
+        background: #fff;
+        color: #9c9a81
+    }
+}
+
+.primary-button-style-outline.primary-button-shape-underline .header-menu.bright .header-menu-cta a.sqs-button-element--primary:hover, .secondary-button-style-outline.secondary-button-shape-underline .with-button-variants .header-menu.bright .header-menu-cta a.sqs-button-element--secondary:hover, .tertiary-button-style-outline.tertiary-button-shape-underline .with-button-variants .header-menu.bright .header-menu-cta a.sqs-button-element--tertiary:hover {
+    border-color: #9c9a81
+}
+
+.bright .sqs-announcement-bar {
+    background: #fff
+}
+
+.bright .sqs-announcement-bar :focus, .bright .sqs-announcement-bar a:focus {
+    outline-color: #9c9a81
+}
+
+.bright .sqs-announcement-bar-text p, .bright .sqs-announcement-bar-text a {
+    color: #9c9a81
+}
+
+.bright .sqs-announcement-bar-close {
+    color: #9c9a81
+}
+
+.bright .gallery-fullscreen-slideshow-control-btn::before, .bright .gallery-slideshow-control-btn::before {
+    background: #9c9a81
+}
+
+.bright .gallery-fullscreen-slideshow-control-btn svg, .bright .gallery-slideshow-control-btn svg {
+    stroke: #fff
+}
+
+.bright .gallery-fullscreen-slideshow-bullet {
+    border-color: #9c9a81
+}
+
+.bright .gallery-fullscreen-slideshow-bullet.active {
+    background-color: #9c9a81
+}
+
+.bright .gallery-lightbox-background {
+    background-color: #9c9a81;
+    opacity: .9
+}
+
+.bright .gallery-lightbox-control-btn {
+    color: #fff
+}
+
+.bright .gallery-lightbox-control-btn .gallery-lightbox-control-btn-icon svg * {
+    stroke: currentColor
+}
+
+.bright .gallery-lightbox-close-btn {
+    color: #fff
+}
+
+.bright .gallery-lightbox-close-btn .gallery-lightbox-close-btn-icon svg * {
+    stroke: currentColor
+}
+
+.bright .user-items-list .list-section-title {
+    color: #fff
+}
+
+.bright .user-items-list .list-section-title a {
+    color: #fff
+}
+
+.primary-button-style-outline .site-wrapper .bright .user-items-list-simple .list-item[data-is-card-enabled="false"] .list-item-content__button.sqs-button-element--primary.sqs-block-button-element {
+    color: #fff;
+    border-color: #fff
+}
+
+@media (hover: hover) {
+    .primary-button-style-outline .site-wrapper .bright .user-items-list-simple .list-item[data-is-card-enabled="false"] .list-item-content__button.sqs-button-element--primary.sqs-block-button-element:hover {
+        background-color: #fff;
+        color: #9c9a81
+    }
+
+    .primary-button-shape-underline.primary-button-style-outline .site-wrapper .bright .user-items-list-simple .list-item[data-is-card-enabled="false"] .list-item-content__button.sqs-button-element--primary.sqs-block-button-element:hover {
+        border-color: #9c9a81
+    }
+}
+
+.primary-button-style-outline .site-wrapper .bright .user-items-list-simple .list-item[data-is-card-enabled="true"] .list-item-content__button.sqs-button-element--primary.sqs-block-button-element {
+    color: #9c9a81;
+    border-color: #9c9a81
+}
+
+@media (hover: hover) {
+    .primary-button-style-outline .site-wrapper .bright .user-items-list-simple .list-item[data-is-card-enabled="true"] .list-item-content__button.sqs-button-element--primary.sqs-block-button-element:hover {
+        background-color: #9c9a81;
+        color: #fff
+    }
+
+    .primary-button-shape-underline.primary-button-style-outline .site-wrapper .bright .user-items-list-simple .list-item[data-is-card-enabled="true"] .list-item-content__button.sqs-button-element--primary.sqs-block-button-element:hover {
+        border-color: #fff
+    }
+}
+
+.primary-button-style-outline .site-wrapper .bright .user-items-list-carousel .list-item[data-is-card-enabled="false"] .list-item-content__button.sqs-button-element--primary.sqs-block-button-element {
+    color: #fff;
+    border-color: #fff
+}
+
+@media (hover: hover) {
+    .primary-button-style-outline .site-wrapper .bright .user-items-list-carousel .list-item[data-is-card-enabled="false"] .list-item-content__button.sqs-button-element--primary.sqs-block-button-element:hover {
+        background-color: #fff;
+        color: #9c9a81
+    }
+
+    .primary-button-shape-underline.primary-button-style-outline .site-wrapper .bright .user-items-list-carousel .list-item[data-is-card-enabled="false"] .list-item-content__button.sqs-button-element--primary.sqs-block-button-element:hover {
+        border-color: #9c9a81
+    }
+}
+
+.primary-button-style-outline .site-wrapper .bright .user-items-list-carousel .list-item[data-is-card-enabled="true"] .list-item-content__button.sqs-button-element--primary.sqs-block-button-element {
+    color: #9c9a81;
+    border-color: #9c9a81
+}
+
+@media (hover: hover) {
+    .primary-button-style-outline .site-wrapper .bright .user-items-list-carousel .list-item[data-is-card-enabled="true"] .list-item-content__button.sqs-button-element--primary.sqs-block-button-element:hover {
+        background-color: #9c9a81;
+        color: #fff
+    }
+
+    .primary-button-shape-underline.primary-button-style-outline .site-wrapper .bright .user-items-list-carousel .list-item[data-is-card-enabled="true"] .list-item-content__button.sqs-button-element--primary.sqs-block-button-element:hover {
+        border-color: #fff
+    }
+}
+
+.primary-button-style-outline .site-wrapper .bright .user-items-list-banner-slideshow .list-item[data-is-card-enabled="false"] .list-item-content__button.sqs-button-element--primary.sqs-block-button-element {
+    color: #fff;
+    border-color: #fff
+}
+
+@media (hover: hover) {
+    .primary-button-style-outline .site-wrapper .bright .user-items-list-banner-slideshow .list-item[data-is-card-enabled="false"] .list-item-content__button.sqs-button-element--primary.sqs-block-button-element:hover {
+        background-color: #fff;
+        color: #9c9a81
+    }
+
+    .primary-button-shape-underline.primary-button-style-outline .site-wrapper .bright .user-items-list-banner-slideshow .list-item[data-is-card-enabled="false"] .list-item-content__button.sqs-button-element--primary.sqs-block-button-element:hover {
+        border-color: #9c9a81
+    }
+}
+
+.primary-button-style-outline .site-wrapper .bright .user-items-list-banner-slideshow .list-item[data-is-card-enabled="true"] .list-item-content__button.sqs-button-element--primary.sqs-block-button-element {
+    color: #9c9a81;
+    border-color: #9c9a81
+}
+
+@media (hover: hover) {
+    .primary-button-style-outline .site-wrapper .bright .user-items-list-banner-slideshow .list-item[data-is-card-enabled="true"] .list-item-content__button.sqs-button-element--primary.sqs-block-button-element:hover {
+        background-color: #9c9a81;
+        color: #fff
+    }
+
+    .primary-button-shape-underline.primary-button-style-outline .site-wrapper .bright .user-items-list-banner-slideshow .list-item[data-is-card-enabled="true"] .list-item-content__button.sqs-button-element--primary.sqs-block-button-element:hover {
+        border-color: #fff
+    }
+}
+
+.secondary-button-style-outline .with-button-variants .bright .user-items-list-simple .list-item[data-is-card-enabled="false"] .list-item-content__button.sqs-button-element--secondary.sqs-block-button-element {
+    color: #fff;
+    border-color: #fff
+}
+
+@media (hover: hover) {
+    .secondary-button-style-outline .with-button-variants .bright .user-items-list-simple .list-item[data-is-card-enabled="false"] .list-item-content__button.sqs-button-element--secondary.sqs-block-button-element:hover {
+        background-color: #fff;
+        color: #9c9a81
+    }
+
+    .secondary-button-shape-underline.secondary-button-style-outline .with-button-variants .bright .user-items-list-simple .list-item[data-is-card-enabled="false"] .list-item-content__button.sqs-button-element--secondary.sqs-block-button-element:hover {
+        border-color: #9c9a81
+    }
+}
+
+.secondary-button-style-outline .with-button-variants .bright .user-items-list-simple .list-item[data-is-card-enabled="true"] .list-item-content__button.sqs-button-element--secondary.sqs-block-button-element {
+    color: #9c9a81;
+    border-color: #9c9a81
+}
+
+@media (hover: hover) {
+    .secondary-button-style-outline .with-button-variants .bright .user-items-list-simple .list-item[data-is-card-enabled="true"] .list-item-content__button.sqs-button-element--secondary.sqs-block-button-element:hover {
+        background-color: #9c9a81;
+        color: #fff
+    }
+
+    .secondary-button-shape-underline.secondary-button-style-outline .with-button-variants .bright .user-items-list-simple .list-item[data-is-card-enabled="true"] .list-item-content__button.sqs-button-element--secondary.sqs-block-button-element:hover {
+        border-color: #fff
+    }
+}
+
+.secondary-button-style-outline .with-button-variants .bright .user-items-list-carousel .list-item[data-is-card-enabled="false"] .list-item-content__button.sqs-button-element--secondary.sqs-block-button-element {
+    color: #fff;
+    border-color: #fff
+}
+
+@media (hover: hover) {
+    .secondary-button-style-outline .with-button-variants .bright .user-items-list-carousel .list-item[data-is-card-enabled="false"] .list-item-content__button.sqs-button-element--secondary.sqs-block-button-element:hover {
+        background-color: #fff;
+        color: #9c9a81
+    }
+
+    .secondary-button-shape-underline.secondary-button-style-outline .with-button-variants .bright .user-items-list-carousel .list-item[data-is-card-enabled="false"] .list-item-content__button.sqs-button-element--secondary.sqs-block-button-element:hover {
+        border-color: #9c9a81
+    }
+}
+
+.secondary-button-style-outline .with-button-variants .bright .user-items-list-carousel .list-item[data-is-card-enabled="true"] .list-item-content__button.sqs-button-element--secondary.sqs-block-button-element {
+    color: #9c9a81;
+    border-color: #9c9a81
+}
+
+@media (hover: hover) {
+    .secondary-button-style-outline .with-button-variants .bright .user-items-list-carousel .list-item[data-is-card-enabled="true"] .list-item-content__button.sqs-button-element--secondary.sqs-block-button-element:hover {
+        background-color: #9c9a81;
+        color: #fff
+    }
+
+    .secondary-button-shape-underline.secondary-button-style-outline .with-button-variants .bright .user-items-list-carousel .list-item[data-is-card-enabled="true"] .list-item-content__button.sqs-button-element--secondary.sqs-block-button-element:hover {
+        border-color: #fff
+    }
+}
+
+.secondary-button-style-outline .with-button-variants .bright .user-items-list-banner-slideshow .list-item[data-is-card-enabled="false"] .list-item-content__button.sqs-button-element--secondary.sqs-block-button-element {
+    color: #fff;
+    border-color: #fff
+}
+
+@media (hover: hover) {
+    .secondary-button-style-outline .with-button-variants .bright .user-items-list-banner-slideshow .list-item[data-is-card-enabled="false"] .list-item-content__button.sqs-button-element--secondary.sqs-block-button-element:hover {
+        background-color: #fff;
+        color: #9c9a81
+    }
+
+    .secondary-button-shape-underline.secondary-button-style-outline .with-button-variants .bright .user-items-list-banner-slideshow .list-item[data-is-card-enabled="false"] .list-item-content__button.sqs-button-element--secondary.sqs-block-button-element:hover {
+        border-color: #9c9a81
+    }
+}
+
+.secondary-button-style-outline .with-button-variants .bright .user-items-list-banner-slideshow .list-item[data-is-card-enabled="true"] .list-item-content__button.sqs-button-element--secondary.sqs-block-button-element {
+    color: #9c9a81;
+    border-color: #9c9a81
+}
+
+@media (hover: hover) {
+    .secondary-button-style-outline .with-button-variants .bright .user-items-list-banner-slideshow .list-item[data-is-card-enabled="true"] .list-item-content__button.sqs-button-element--secondary.sqs-block-button-element:hover {
+        background-color: #9c9a81;
+        color: #fff
+    }
+
+    .secondary-button-shape-underline.secondary-button-style-outline .with-button-variants .bright .user-items-list-banner-slideshow .list-item[data-is-card-enabled="true"] .list-item-content__button.sqs-button-element--secondary.sqs-block-button-element:hover {
+        border-color: #fff
+    }
+}
+
+.tertiary-button-style-outline .with-button-variants .bright .user-items-list-simple .list-item[data-is-card-enabled="false"] .list-item-content__button.sqs-button-element--tertiary.sqs-block-button-element {
+    color: #fff;
+    border-color: #fff
+}
+
+@media (hover: hover) {
+    .tertiary-button-style-outline .with-button-variants .bright .user-items-list-simple .list-item[data-is-card-enabled="false"] .list-item-content__button.sqs-button-element--tertiary.sqs-block-button-element:hover {
+        background-color: #fff;
+        color: #9c9a81
+    }
+
+    .tertiary-button-shape-underline.tertiary-button-style-outline .with-button-variants .bright .user-items-list-simple .list-item[data-is-card-enabled="false"] .list-item-content__button.sqs-button-element--tertiary.sqs-block-button-element:hover {
+        border-color: #9c9a81
+    }
+}
+
+.tertiary-button-style-outline .with-button-variants .bright .user-items-list-simple .list-item[data-is-card-enabled="true"] .list-item-content__button.sqs-button-element--tertiary.sqs-block-button-element {
+    color: #9c9a81;
+    border-color: #9c9a81
+}
+
+@media (hover: hover) {
+    .tertiary-button-style-outline .with-button-variants .bright .user-items-list-simple .list-item[data-is-card-enabled="true"] .list-item-content__button.sqs-button-element--tertiary.sqs-block-button-element:hover {
+        background-color: #9c9a81;
+        color: #fff
+    }
+
+    .tertiary-button-shape-underline.tertiary-button-style-outline .with-button-variants .bright .user-items-list-simple .list-item[data-is-card-enabled="true"] .list-item-content__button.sqs-button-element--tertiary.sqs-block-button-element:hover {
+        border-color: #fff
+    }
+}
+
+.tertiary-button-style-outline .with-button-variants .bright .user-items-list-carousel .list-item[data-is-card-enabled="false"] .list-item-content__button.sqs-button-element--tertiary.sqs-block-button-element {
+    color: #fff;
+    border-color: #fff
+}
+
+@media (hover: hover) {
+    .tertiary-button-style-outline .with-button-variants .bright .user-items-list-carousel .list-item[data-is-card-enabled="false"] .list-item-content__button.sqs-button-element--tertiary.sqs-block-button-element:hover {
+        background-color: #fff;
+        color: #9c9a81
+    }
+
+    .tertiary-button-shape-underline.tertiary-button-style-outline .with-button-variants .bright .user-items-list-carousel .list-item[data-is-card-enabled="false"] .list-item-content__button.sqs-button-element--tertiary.sqs-block-button-element:hover {
+        border-color: #9c9a81
+    }
+}
+
+.tertiary-button-style-outline .with-button-variants .bright .user-items-list-carousel .list-item[data-is-card-enabled="true"] .list-item-content__button.sqs-button-element--tertiary.sqs-block-button-element {
+    color: #9c9a81;
+    border-color: #9c9a81
+}
+
+@media (hover: hover) {
+    .tertiary-button-style-outline .with-button-variants .bright .user-items-list-carousel .list-item[data-is-card-enabled="true"] .list-item-content__button.sqs-button-element--tertiary.sqs-block-button-element:hover {
+        background-color: #9c9a81;
+        color: #fff
+    }
+
+    .tertiary-button-shape-underline.tertiary-button-style-outline .with-button-variants .bright .user-items-list-carousel .list-item[data-is-card-enabled="true"] .list-item-content__button.sqs-button-element--tertiary.sqs-block-button-element:hover {
+        border-color: #fff
+    }
+}
+
+.tertiary-button-style-outline .with-button-variants .bright .user-items-list-banner-slideshow .list-item[data-is-card-enabled="false"] .list-item-content__button.sqs-button-element--tertiary.sqs-block-button-element {
+    color: #fff;
+    border-color: #fff
+}
+
+@media (hover: hover) {
+    .tertiary-button-style-outline .with-button-variants .bright .user-items-list-banner-slideshow .list-item[data-is-card-enabled="false"] .list-item-content__button.sqs-button-element--tertiary.sqs-block-button-element:hover {
+        background-color: #fff;
+        color: #9c9a81
+    }
+
+    .tertiary-button-shape-underline.tertiary-button-style-outline .with-button-variants .bright .user-items-list-banner-slideshow .list-item[data-is-card-enabled="false"] .list-item-content__button.sqs-button-element--tertiary.sqs-block-button-element:hover {
+        border-color: #9c9a81
+    }
+}
+
+.tertiary-button-style-outline .with-button-variants .bright .user-items-list-banner-slideshow .list-item[data-is-card-enabled="true"] .list-item-content__button.sqs-button-element--tertiary.sqs-block-button-element {
+    color: #9c9a81;
+    border-color: #9c9a81
+}
+
+@media (hover: hover) {
+    .tertiary-button-style-outline .with-button-variants .bright .user-items-list-banner-slideshow .list-item[data-is-card-enabled="true"] .list-item-content__button.sqs-button-element--tertiary.sqs-block-button-element:hover {
+        background-color: #9c9a81;
+        color: #fff
+    }
+
+    .tertiary-button-shape-underline.tertiary-button-style-outline .with-button-variants .bright .user-items-list-banner-slideshow .list-item[data-is-card-enabled="true"] .list-item-content__button.sqs-button-element--tertiary.sqs-block-button-element:hover {
+        border-color: #fff
+    }
+}
+
+.bright .user-items-list-simple .list-item-content__title {
+    color: #fff
+}
+
+.bright .user-items-list-simple .list-item-content__description {
+    color: #fff
+}
+
+.bright .user-items-list-simple .list-item-content__description a {
+    color: #fff
+}
+
+.bright .user-items-list-simple .list-item-content__button.sqs-button-element--primary {
+    color: #9c9a81;
+    background-color: #fff
+}
+
+.primary-button-style-solid.primary-button-shape-underline .with-button-variants .bright .user-items-list-simple .list-item-content__button.sqs-button-element--primary {
+    color: #fff;
+    background-color: #9c9a81;
+    border-color: #fff
+}
+
+.primary-button-style-solid.primary-button-shape-underline .site-wrapper:not(.with-button-variants) .bright .user-items-list-simple .list-item-content__button.sqs-block-button-element {
+    border-color: #9c9a81
+}
+
+.bright .user-items-list-simple .list-item-content__button.sqs-button-element--secondary {
+    color: #9c9a81;
+    background-color: #fff
+}
+
+.secondary-button-style-solid.secondary-button-shape-underline .with-button-variants .bright .user-items-list-simple .list-item-content__button.sqs-button-element--secondary {
+    color: #fff;
+    background-color: #9c9a81;
+    border-color: #fff
+}
+
+.primary-button-style-solid.primary-button-shape-underline .site-wrapper:not(.with-button-variants) .bright .user-items-list-simple .list-item-content__button.sqs-block-button-element {
+    border-color: #9c9a81
+}
+
+.bright .user-items-list-simple .list-item-content__button.sqs-button-element--tertiary {
+    color: #9c9a81;
+    background-color: #fff
+}
+
+.tertiary-button-style-solid.tertiary-button-shape-underline .with-button-variants .bright .user-items-list-simple .list-item-content__button.sqs-button-element--tertiary {
+    color: #fff;
+    background-color: #9c9a81;
+    border-color: #fff
+}
+
+.primary-button-style-solid.primary-button-shape-underline .site-wrapper:not(.with-button-variants) .bright .user-items-list-simple .list-item-content__button.sqs-block-button-element {
+    border-color: #9c9a81
+}
+
+.bright .user-items-list-simple .list-item[data-is-card-enabled="true"] {
+    background-color: #fff
+}
+
+.bright .user-items-list-simple .list-item[data-is-card-enabled="true"] .list-item-content__title {
+    color: #9c9a81
+}
+
+.bright .user-items-list-simple .list-item[data-is-card-enabled="true"] .list-item-content__description {
+    color: #9c9a81
+}
+
+.bright .user-items-list-simple .list-item[data-is-card-enabled="true"] .list-item-content__description a {
+    color: #9c9a81
+}
+
+.bright .user-items-list-simple .list-item[data-is-card-enabled="true"] .list-item-content__button.sqs-button-element--primary {
+    color: #fff;
+    background-color: #9c9a81
+}
+
+.primary-button-style-solid.primary-button-shape-underline .with-button-variants .bright .user-items-list-simple .list-item[data-is-card-enabled="true"] .list-item-content__button.sqs-button-element--primary {
+    color: #9c9a81;
+    background-color: #fff;
+    border-color: #9c9a81
+}
+
+.primary-button-style-solid.primary-button-shape-underline .site-wrapper:not(.with-button-variants) .bright .user-items-list-simple .list-item[data-is-card-enabled="true"] .list-item-content__button.sqs-block-button-element {
+    border-color: #fff
+}
+
+.bright .user-items-list-simple .list-item[data-is-card-enabled="true"] .list-item-content__button.sqs-button-element--secondary {
+    color: #fff;
+    background-color: #9c9a81
+}
+
+.secondary-button-style-solid.secondary-button-shape-underline .with-button-variants .bright .user-items-list-simple .list-item[data-is-card-enabled="true"] .list-item-content__button.sqs-button-element--secondary {
+    color: #9c9a81;
+    background-color: #fff;
+    border-color: #9c9a81
+}
+
+.primary-button-style-solid.primary-button-shape-underline .site-wrapper:not(.with-button-variants) .bright .user-items-list-simple .list-item[data-is-card-enabled="true"] .list-item-content__button.sqs-block-button-element {
+    border-color: #fff
+}
+
+.bright .user-items-list-simple .list-item[data-is-card-enabled="true"] .list-item-content__button.sqs-button-element--tertiary {
+    color: #fff;
+    background-color: #9c9a81
+}
+
+.tertiary-button-style-solid.tertiary-button-shape-underline .with-button-variants .bright .user-items-list-simple .list-item[data-is-card-enabled="true"] .list-item-content__button.sqs-button-element--tertiary {
+    color: #9c9a81;
+    background-color: #fff;
+    border-color: #9c9a81
+}
+
+.primary-button-style-solid.primary-button-shape-underline .site-wrapper:not(.with-button-variants) .bright .user-items-list-simple .list-item[data-is-card-enabled="true"] .list-item-content__button.sqs-block-button-element {
+    border-color: #fff
+}
+
+.bright .user-items-list-carousel .list-item-content__title {
+    color: #fff
+}
+
+.bright .user-items-list-carousel .list-item-content__description {
+    color: #fff
+}
+
+.bright .user-items-list-carousel .list-item-content__description a {
+    color: #fff
+}
+
+.bright .user-items-list-carousel .list-item-content__button.sqs-button-element--primary {
+    color: #9c9a81;
+    background-color: #fff
+}
+
+.primary-button-style-solid.primary-button-shape-underline .with-button-variants .bright .user-items-list-carousel .list-item-content__button.sqs-button-element--primary {
+    color: #fff;
+    background-color: #9c9a81;
+    border-color: #fff
+}
+
+.primary-button-style-solid.primary-button-shape-underline .site-wrapper:not(.with-button-variants) .bright .user-items-list-carousel .list-item-content__button.sqs-block-button-element {
+    border-color: #9c9a81
+}
+
+.bright .user-items-list-carousel .list-item-content__button.sqs-button-element--secondary {
+    color: #9c9a81;
+    background-color: #fff
+}
+
+.secondary-button-style-solid.secondary-button-shape-underline .with-button-variants .bright .user-items-list-carousel .list-item-content__button.sqs-button-element--secondary {
+    color: #fff;
+    background-color: #9c9a81;
+    border-color: #fff
+}
+
+.primary-button-style-solid.primary-button-shape-underline .site-wrapper:not(.with-button-variants) .bright .user-items-list-carousel .list-item-content__button.sqs-block-button-element {
+    border-color: #9c9a81
+}
+
+.bright .user-items-list-carousel .list-item-content__button.sqs-button-element--tertiary {
+    color: #9c9a81;
+    background-color: #fff
+}
+
+.tertiary-button-style-solid.tertiary-button-shape-underline .with-button-variants .bright .user-items-list-carousel .list-item-content__button.sqs-button-element--tertiary {
+    color: #fff;
+    background-color: #9c9a81;
+    border-color: #fff
+}
+
+.primary-button-style-solid.primary-button-shape-underline .site-wrapper:not(.with-button-variants) .bright .user-items-list-carousel .list-item-content__button.sqs-block-button-element {
+    border-color: #9c9a81
+}
+
+.bright .user-items-list-carousel .user-items-list-carousel__arrow-icon-foreground {
+    stroke: #9c9a81
+}
+
+.bright .user-items-list-carousel .user-items-list-carousel__arrow-icon-background {
+    background-color: #fff
+}
+
+.bright .user-items-list-carousel .user-items-list-carousel__arrow-button::after {
+    border-color: #9c9a81
+}
+
+.bright .user-items-list-carousel .user-items-list-carousel__gutter::after {
+    border-color: #fff
+}
+
+.bright .user-items-list-carousel[data-layout-width="full"] .user-items-list-carousel__gutter::after {
+    border-color: #fff
+}
+
+.bright .user-items-list-carousel .list-item[data-is-card-enabled="true"] {
+    background-color: #fff
+}
+
+.bright .user-items-list-carousel .list-item[data-is-card-enabled="true"] .list-item-content__title {
+    color: #9c9a81
+}
+
+.bright .user-items-list-carousel .list-item[data-is-card-enabled="true"] .list-item-content__description {
+    color: #9c9a81
+}
+
+.bright .user-items-list-carousel .list-item[data-is-card-enabled="true"] .list-item-content__description a {
+    color: #9c9a81
+}
+
+.bright .user-items-list-carousel .list-item[data-is-card-enabled="true"] .list-item-content__button.sqs-button-element--primary {
+    color: #fff;
+    background-color: #9c9a81
+}
+
+.primary-button-style-solid.primary-button-shape-underline .with-button-variants .bright .user-items-list-carousel .list-item[data-is-card-enabled="true"] .list-item-content__button.sqs-button-element--primary {
+    color: #9c9a81;
+    background-color: #fff;
+    border-color: #9c9a81
+}
+
+.primary-button-style-solid.primary-button-shape-underline .site-wrapper:not(.with-button-variants) .bright .user-items-list-carousel .list-item[data-is-card-enabled="true"] .list-item-content__button.sqs-block-button-element {
+    border-color: #fff
+}
+
+.bright .user-items-list-carousel .list-item[data-is-card-enabled="true"] .list-item-content__button.sqs-button-element--secondary {
+    color: #fff;
+    background-color: #9c9a81
+}
+
+.secondary-button-style-solid.secondary-button-shape-underline .with-button-variants .bright .user-items-list-carousel .list-item[data-is-card-enabled="true"] .list-item-content__button.sqs-button-element--secondary {
+    color: #9c9a81;
+    background-color: #fff;
+    border-color: #9c9a81
+}
+
+.primary-button-style-solid.primary-button-shape-underline .site-wrapper:not(.with-button-variants) .bright .user-items-list-carousel .list-item[data-is-card-enabled="true"] .list-item-content__button.sqs-block-button-element {
+    border-color: #fff
+}
+
+.bright .user-items-list-carousel .list-item[data-is-card-enabled="true"] .list-item-content__button.sqs-button-element--tertiary {
+    color: #fff;
+    background-color: #9c9a81
+}
+
+.tertiary-button-style-solid.tertiary-button-shape-underline .with-button-variants .bright .user-items-list-carousel .list-item[data-is-card-enabled="true"] .list-item-content__button.sqs-button-element--tertiary {
+    color: #9c9a81;
+    background-color: #fff;
+    border-color: #9c9a81
+}
+
+.primary-button-style-solid.primary-button-shape-underline .site-wrapper:not(.with-button-variants) .bright .user-items-list-carousel .list-item[data-is-card-enabled="true"] .list-item-content__button.sqs-block-button-element {
+    border-color: #fff
+}
+
+.bright .user-items-list-banner-slideshow .list-item-content__title {
+    color: #fff
+}
+
+.bright .user-items-list-banner-slideshow .list-item-content__description {
+    color: #fff
+}
+
+.bright .user-items-list-banner-slideshow .list-item-content__description a {
+    color: #fff
+}
+
+.bright .user-items-list-banner-slideshow .list-item-content__button.sqs-button-element--primary {
+    color: #9c9a81;
+    background-color: #fff
+}
+
+.primary-button-style-solid.primary-button-shape-underline .with-button-variants .bright .user-items-list-banner-slideshow .list-item-content__button.sqs-button-element--primary {
+    color: #fff;
+    background-color: #9c9a81;
+    border-color: #fff
+}
+
+.primary-button-style-solid.primary-button-shape-underline .site-wrapper:not(.with-button-variants) .bright .user-items-list-banner-slideshow .list-item-content__button.sqs-block-button-element {
+    border-color: #9c9a81
+}
+
+.bright .user-items-list-banner-slideshow .list-item-content__button.sqs-button-element--secondary {
+    color: #9c9a81;
+    background-color: #fff
+}
+
+.secondary-button-style-solid.secondary-button-shape-underline .with-button-variants .bright .user-items-list-banner-slideshow .list-item-content__button.sqs-button-element--secondary {
+    color: #fff;
+    background-color: #9c9a81;
+    border-color: #fff
+}
+
+.primary-button-style-solid.primary-button-shape-underline .site-wrapper:not(.with-button-variants) .bright .user-items-list-banner-slideshow .list-item-content__button.sqs-block-button-element {
+    border-color: #9c9a81
+}
+
+.bright .user-items-list-banner-slideshow .list-item-content__button.sqs-button-element--tertiary {
+    color: #9c9a81;
+    background-color: #fff
+}
+
+.tertiary-button-style-solid.tertiary-button-shape-underline .with-button-variants .bright .user-items-list-banner-slideshow .list-item-content__button.sqs-button-element--tertiary {
+    color: #fff;
+    background-color: #9c9a81;
+    border-color: #fff
+}
+
+.primary-button-style-solid.primary-button-shape-underline .site-wrapper:not(.with-button-variants) .bright .user-items-list-banner-slideshow .list-item-content__button.sqs-block-button-element {
+    border-color: #9c9a81
+}
+
+.bright .user-items-list-banner-slideshow .user-items-list-banner-slideshow__arrow-icon-foreground {
+    stroke: #9c9a81
+}
+
+.bright .user-items-list-banner-slideshow .user-items-list-banner-slideshow__arrow-icon-background {
+    background-color: #fff
+}
+
+.bright .user-items-list-banner-slideshow .user-items-list-banner-slideshow__arrow-button::after {
+    border-color: #9c9a81
+}
+
+.bright .user-items-list-banner-slideshow .slideshow-gutter::after {
+    border-color: #fff
+}
+
+.bright .user-items-list-banner-slideshow[data-layout-width="full-bleed"] .slideshow-gutter::after {
+    border-color: #fff
+}
+
+.bright .user-items-list-banner-slideshow .list-item[data-is-card-enabled="true"] .list-item-card-background {
+    background-color: #fff
+}
+
+.bright .user-items-list-banner-slideshow .list-item[data-is-card-enabled="true"] .list-item-content__title {
+    color: #9c9a81
+}
+
+.bright .user-items-list-banner-slideshow .list-item[data-is-card-enabled="true"] .list-item-content__description {
+    color: #9c9a81
+}
+
+.bright .user-items-list-banner-slideshow .list-item[data-is-card-enabled="true"] .list-item-content__description a {
+    color: #9c9a81
+}
+
+.bright .user-items-list-banner-slideshow .list-item[data-is-card-enabled="true"] .list-item-content__button.sqs-button-element--primary {
+    color: #fff;
+    background-color: #9c9a81
+}
+
+.primary-button-style-solid.primary-button-shape-underline .with-button-variants .bright .user-items-list-banner-slideshow .list-item[data-is-card-enabled="true"] .list-item-content__button.sqs-button-element--primary {
+    color: #9c9a81;
+    background-color: #fff;
+    border-color: #9c9a81
+}
+
+.primary-button-style-solid.primary-button-shape-underline .site-wrapper:not(.with-button-variants) .bright .user-items-list-banner-slideshow .list-item[data-is-card-enabled="true"] .list-item-content__button.sqs-block-button-element {
+    border-color: #fff
+}
+
+.bright .user-items-list-banner-slideshow .list-item[data-is-card-enabled="true"] .list-item-content__button.sqs-button-element--secondary {
+    color: #fff;
+    background-color: #9c9a81
+}
+
+.secondary-button-style-solid.secondary-button-shape-underline .with-button-variants .bright .user-items-list-banner-slideshow .list-item[data-is-card-enabled="true"] .list-item-content__button.sqs-button-element--secondary {
+    color: #9c9a81;
+    background-color: #fff;
+    border-color: #9c9a81
+}
+
+.primary-button-style-solid.primary-button-shape-underline .site-wrapper:not(.with-button-variants) .bright .user-items-list-banner-slideshow .list-item[data-is-card-enabled="true"] .list-item-content__button.sqs-block-button-element {
+    border-color: #fff
+}
+
+.bright .user-items-list-banner-slideshow .list-item[data-is-card-enabled="true"] .list-item-content__button.sqs-button-element--tertiary {
+    color: #fff;
+    background-color: #9c9a81
+}
+
+.tertiary-button-style-solid.tertiary-button-shape-underline .with-button-variants .bright .user-items-list-banner-slideshow .list-item[data-is-card-enabled="true"] .list-item-content__button.sqs-button-element--tertiary {
+    color: #9c9a81;
+    background-color: #fff;
+    border-color: #9c9a81
+}
+
+.primary-button-style-solid.primary-button-shape-underline .site-wrapper:not(.with-button-variants) .bright .user-items-list-banner-slideshow .list-item[data-is-card-enabled="true"] .list-item-content__button.sqs-block-button-element {
+    border-color: #fff
+}
+
+@media (hover: hover) {
+    .tweak-global-animations-animation-type-flex.primary-button-style-solid:not(.primary-button-shape-underline) .bright .sqs-button-element--primary:not(input):hover, .tweak-global-animations-animation-type-flex.primary-button-style-solid:not(.primary-button-shape-underline) .bright .sqs-button-element--secondary:not(input):hover, .tweak-global-animations-animation-type-flex.primary-button-style-solid:not(.primary-button-shape-underline) .bright .sqs-button-element--tertiary:not(input):hover, .tweak-global-animations-animation-type-flex.primary-button-style-solid:not(.primary-button-shape-underline) .bright .tock-block div#Tock_widget_container > div.TockWidgetWrapper .TockButton-blue.sqs-button-element--primary:hover {
+        color: #fff
+    }
+
+    .tweak-global-animations-animation-type-flex.primary-button-style-solid:not(.primary-button-shape-underline) .bright .sqs-button-element--primary:not(input)::before, .tweak-global-animations-animation-type-flex.primary-button-style-solid:not(.primary-button-shape-underline) .bright .sqs-button-element--secondary:not(input)::before, .tweak-global-animations-animation-type-flex.primary-button-style-solid:not(.primary-button-shape-underline) .bright .sqs-button-element--tertiary:not(input)::before, .tweak-global-animations-animation-type-flex.primary-button-style-solid:not(.primary-button-shape-underline) .bright .tock-block div#Tock_widget_container > div.TockWidgetWrapper .TockButton-blue.sqs-button-element--primary::before {
+        border-color: #fff;
+        background-color: #9c9a81
+    }
+
+    .tweak-global-animations-animation-type-flex.primary-button-style-solid:not(.primary-button-shape-underline) .bright .user-items-list-simple .list-item[data-is-card-enabled="false"] .list-item-content__button::before {
+        border-color: #fff;
+        background-color: #9c9a81
+    }
+
+    .tweak-global-animations-animation-type-flex.primary-button-style-solid:not(.primary-button-shape-underline) .bright .user-items-list-simple .list-item[data-is-card-enabled="true"] .list-item-content__button::before {
+        border-color: #9c9a81;
+        background-color: #fff
+    }
+
+    .tweak-global-animations-animation-type-flex.primary-button-style-solid:not(.primary-button-shape-underline) .bright .user-items-list-carousel .list-item[data-is-card-enabled="false"] .list-item-content__button::before {
+        border-color: #fff;
+        background-color: #9c9a81
+    }
+
+    .tweak-global-animations-animation-type-flex.primary-button-style-solid:not(.primary-button-shape-underline) .bright .user-items-list-carousel .list-item[data-is-card-enabled="true"] .list-item-content__button::before {
+        border-color: #9c9a81;
+        background-color: #fff
+    }
+
+    .tweak-global-animations-animation-type-flex.primary-button-style-solid:not(.primary-button-shape-underline) .bright .user-items-list-banner-slideshow .list-item[data-is-card-enabled="false"] .list-item-content__button::before {
+        border-color: #fff;
+        background-color: #9c9a81
+    }
+
+    .tweak-global-animations-animation-type-flex.primary-button-style-solid:not(.primary-button-shape-underline) .bright .user-items-list-banner-slideshow .list-item[data-is-card-enabled="true"] .list-item-content__button::before {
+        border-color: #9c9a81;
+        background-color: #fff
+    }
+}
+
+@media (hover: hover) and (hover: hover) {
+    .tweak-global-animations-animation-type-flex.primary-button-style-solid:not(.primary-button-shape-underline) .bright .user-items-list-simple .list-item[data-is-card-enabled="false"] .list-item-content__button:hover {
+        color: #fff
+    }
+}
+
+@media (hover: hover) and (hover: hover) {
+    .tweak-global-animations-animation-type-flex.primary-button-style-solid:not(.primary-button-shape-underline) .bright .user-items-list-simple .list-item[data-is-card-enabled="true"] .list-item-content__button:hover {
+        color: #9c9a81
+    }
+}
+
+@media (hover: hover) and (hover: hover) {
+    .tweak-global-animations-animation-type-flex.primary-button-style-solid:not(.primary-button-shape-underline) .bright .user-items-list-carousel .list-item[data-is-card-enabled="false"] .list-item-content__button:hover {
+        color: #fff
+    }
+}
+
+@media (hover: hover) and (hover: hover) {
+    .tweak-global-animations-animation-type-flex.primary-button-style-solid:not(.primary-button-shape-underline) .bright .user-items-list-carousel .list-item[data-is-card-enabled="true"] .list-item-content__button:hover {
+        color: #9c9a81
+    }
+}
+
+@media (hover: hover) and (hover: hover) {
+    .tweak-global-animations-animation-type-flex.primary-button-style-solid:not(.primary-button-shape-underline) .bright .user-items-list-banner-slideshow .list-item[data-is-card-enabled="false"] .list-item-content__button:hover {
+        color: #fff
+    }
+}
+
+@media (hover: hover) and (hover: hover) {
+    .tweak-global-animations-animation-type-flex.primary-button-style-solid:not(.primary-button-shape-underline) .bright .user-items-list-banner-slideshow .list-item[data-is-card-enabled="true"] .list-item-content__button:hover {
+        color: #9c9a81
+    }
+}
+
+.tweak-global-animations-animation-type-flex.secondary-button-style-solid .with-button-variants .bright .sqs-button-element--secondary:not(input):hover {
+    color: #fff
+}
+
+.tweak-global-animations-animation-type-flex.secondary-button-style-solid .with-button-variants .bright .sqs-button-element--secondary:not(input)::before {
+    border-color: #fff;
+    background-color: #9c9a81
+}
+
+.tweak-global-animations-animation-type-flex.tertiarty-button-style-solid .with-button-variants .bright .sqs-button-element--tertiary:not(input):hover {
+    color: #fff
+}
+
+.tweak-global-animations-animation-type-flex.tertiarty-button-style-solid .with-button-variants .bright .sqs-button-element--tertiary:not(input)::before {
+    border-color: #fff;
+    background-color: #9c9a81
+}
+
+@media (hover: hover) {
+    .tweak-global-animations-animation-type-flex.primary-button-style-outline .bright .sqs-button-element--primary:not(input):hover, .tweak-global-animations-animation-type-flex.primary-button-style-outline .bright .sqs-button-element--secondary:not(input):hover, .tweak-global-animations-animation-type-flex.primary-button-style-outline .bright .sqs-button-element--tertiary:not(input):hover {
+        color: #9c9a81
+    }
+
+    .tweak-global-animations-animation-type-flex.primary-button-style-outline .bright .sqs-button-element--primary:not(input)::before, .tweak-global-animations-animation-type-flex.primary-button-style-outline .bright .sqs-button-element--secondary:not(input)::before, .tweak-global-animations-animation-type-flex.primary-button-style-outline .bright .sqs-button-element--tertiary:not(input)::before {
+        border-color: #fff;
+        background-color: #fff
+    }
+
+    .tweak-global-animations-animation-type-flex.primary-button-style-outline .bright .user-items-list-simple .list-item[data-is-card-enabled="false"] .list-item-content__button {
+        color: #fff;
+        border-color: #fff
+    }
+
+    .tweak-global-animations-animation-type-flex.primary-button-style-outline .bright .user-items-list-simple .list-item[data-is-card-enabled="false"] .list-item-content__button::before {
+        border-color: #fff;
+        background-color: #fff
+    }
+
+    .tweak-global-animations-animation-type-flex.primary-button-style-outline .bright .user-items-list-simple .list-item[data-is-card-enabled="true"] .list-item-content__button {
+        color: #9c9a81;
+        border-color: #9c9a81
+    }
+
+    .tweak-global-animations-animation-type-flex.primary-button-style-outline .bright .user-items-list-simple .list-item[data-is-card-enabled="true"] .list-item-content__button::before {
+        border-color: #9c9a81;
+        background-color: #9c9a81
+    }
+
+    .tweak-global-animations-animation-type-flex.primary-button-style-outline .bright .user-items-list-carousel .list-item[data-is-card-enabled="false"] .list-item-content__button {
+        color: #fff;
+        border-color: #fff
+    }
+
+    .tweak-global-animations-animation-type-flex.primary-button-style-outline .bright .user-items-list-carousel .list-item[data-is-card-enabled="false"] .list-item-content__button::before {
+        border-color: #fff;
+        background-color: #fff
+    }
+
+    .tweak-global-animations-animation-type-flex.primary-button-style-outline .bright .user-items-list-carousel .list-item[data-is-card-enabled="true"] .list-item-content__button {
+        color: #9c9a81;
+        border-color: #9c9a81
+    }
+
+    .tweak-global-animations-animation-type-flex.primary-button-style-outline .bright .user-items-list-carousel .list-item[data-is-card-enabled="true"] .list-item-content__button::before {
+        border-color: #9c9a81;
+        background-color: #9c9a81
+    }
+
+    .tweak-global-animations-animation-type-flex.primary-button-style-outline .bright .user-items-list-banner-slideshow .list-item[data-is-card-enabled="false"] .list-item-content__button {
+        color: #fff;
+        border-color: #fff
+    }
+
+    .tweak-global-animations-animation-type-flex.primary-button-style-outline .bright .user-items-list-banner-slideshow .list-item[data-is-card-enabled="false"] .list-item-content__button::before {
+        border-color: #fff;
+        background-color: #fff
+    }
+
+    .tweak-global-animations-animation-type-flex.primary-button-style-outline .bright .user-items-list-banner-slideshow .list-item[data-is-card-enabled="true"] .list-item-content__button {
+        color: #9c9a81;
+        border-color: #9c9a81
+    }
+
+    .tweak-global-animations-animation-type-flex.primary-button-style-outline .bright .user-items-list-banner-slideshow .list-item[data-is-card-enabled="true"] .list-item-content__button::before {
+        border-color: #9c9a81;
+        background-color: #9c9a81
+    }
+}
+
+@media (hover: hover) and (hover: hover) {
+    .tweak-global-animations-animation-type-flex.primary-button-style-outline .bright .user-items-list-simple .list-item[data-is-card-enabled="false"] .list-item-content__button:hover {
+        color: #9c9a81
+    }
+}
+
+@media (hover: hover) and (hover: hover) {
+    .tweak-global-animations-animation-type-flex.primary-button-style-outline .bright .user-items-list-simple .list-item[data-is-card-enabled="true"] .list-item-content__button:hover {
+        color: #fff
+    }
+}
+
+@media (hover: hover) and (hover: hover) {
+    .tweak-global-animations-animation-type-flex.primary-button-style-outline .bright .user-items-list-carousel .list-item[data-is-card-enabled="false"] .list-item-content__button:hover {
+        color: #9c9a81
+    }
+}
+
+@media (hover: hover) and (hover: hover) {
+    .tweak-global-animations-animation-type-flex.primary-button-style-outline .bright .user-items-list-carousel .list-item[data-is-card-enabled="true"] .list-item-content__button:hover {
+        color: #fff
+    }
+}
+
+@media (hover: hover) and (hover: hover) {
+    .tweak-global-animations-animation-type-flex.primary-button-style-outline .bright .user-items-list-banner-slideshow .list-item[data-is-card-enabled="false"] .list-item-content__button:hover {
+        color: #9c9a81
+    }
+}
+
+@media (hover: hover) and (hover: hover) {
+    .tweak-global-animations-animation-type-flex.primary-button-style-outline .bright .user-items-list-banner-slideshow .list-item[data-is-card-enabled="true"] .list-item-content__button:hover {
+        color: #fff
+    }
+}
+
+@media (hover: hover) {
+    .tweak-global-animations-animation-type-flex.secondary-button-style-outline .with-button-variants .bright .sqs-button-element--secondary:not(input):hover {
+        color: #9c9a81
+    }
+
+    .tweak-global-animations-animation-type-flex.secondary-button-style-outline .with-button-variants .bright .sqs-button-element--secondary:not(input)::before {
+        border-color: #fff;
+        background-color: #fff
+    }
+}
+
+@media (hover: hover) {
+    .tweak-global-animations-animation-type-flex.tertiary-button-style-outline .with-button-variants .bright .sqs-button-element--tertiary:not(input):hover {
+        color: #9c9a81
+    }
+
+    .tweak-global-animations-animation-type-flex.tertiary-button-style-outline .with-button-variants .bright .sqs-button-element--tertiary:not(input)::before {
+        border-color: #fff;
+        background-color: #fff
+    }
+}
+
+.bright .ImageAndText__headline {
+    color: #fff
+}
+
+.bright .ImageAndText__subheadline {
+    color: #fff
+}
+
+.bright .ImageAndText__button-link {
+    color: #9c9a81;
+    background-color: #fff
+}
+
+.bright .ImageAndText__text-outer-wrapper[data-text-card-enabled="true"] {
+    background-color: #f6f5ea
+}
+
+.bright .portfolio-grid-overlay .portfolio-title {
+    color: #fff
+}
+
+.bright .portfolio-grid-overlay .portfolio-overlay {
+    background-color: #9c9a81
+}
+
+.bright .portfolio-grid-basic .portfolio-title {
+    color: #fff
+}
+
+.bright .portfolio-hover[data-variant-hover-cover] .portfolio-hover-item-title {
+    color: #fff
+}
+
+.bright .collection-type-portfolio-index-background .portfolio-index-background-link h1 {
+    color: #fff
+}
+
+.bright .portfolio-hover[data-variant-hover-follow] .portfolio-hover-item-title {
+    color: #fff
+}
+
+.bright .portfolio-hover[data-variant-hover-static] .portfolio-hover-item-title {
+    color: #fff
+}
+
+.bright .item-pagination[data-collection-type^="portfolio"], .bright.item-pagination[data-collection-type^="portfolio"] {
+    background-color: #9c9a81
+}
+
+.bright .item-pagination[data-collection-type^="portfolio"] .item-pagination-icon svg, .bright.item-pagination[data-collection-type^="portfolio"] .item-pagination-icon svg {
+    stroke: #fff
+}
+
+.bright .item-pagination[data-collection-type^="portfolio"] .item-pagination-prev-next, .bright.item-pagination[data-collection-type^="portfolio"] .item-pagination-prev-next {
+    color: #fff
+}
+
+.bright .item-pagination[data-collection-type^="portfolio"] .item-pagination-title, .bright.item-pagination[data-collection-type^="portfolio"] .item-pagination-title {
+    color: #fff
+}
+
+.bright .lesson-title {
+    color: #fff
+}
+
+.bright .lessons-grid-meta-container {
+    color: #fff
+}
+
+.bright .lessons-list .grid-desc {
+    color: #fff
+}
+
+.bright .lessons-list .nested-category-children, .bright .lessons-list .nested-category-tree-wrapper {
+    color: #fff
+}
+
+.bright .lesson-details-title {
+    color: #fff
+}
+
+.bright .lesson-grid-meta-container {
+    color: #fff
+}
+
+.bright .lesson-details-description {
+    color: #fff
+}
+
+.bright .blog-alternating-side-by-side .blog-more-link {
+    color: #fff
+}
+
+.bright .blog-alternating-side-by-side .blog-more-link::after {
+    background: #fff
+}
+
+.bright .blog-alternating-side-by-side .blog-title {
+    color: #fff
+}
+
+.bright .blog-alternating-side-by-side .blog-categories-list a, .bright .blog-alternating-side-by-side .blog-author, .bright .blog-alternating-side-by-side .blog-date, .bright .blog-alternating-side-by-side .blog-meta-delimiter {
+    color: #fff
+}
+
+.bright .blog-alternating-side-by-side .blog-excerpt {
+    color: #fff
+}
+
+.bright .blog-alternating-side-by-side .blog-list-pagination {
+    color: #fff
+}
+
+.bright .blog-alternating-side-by-side .blog-list-pagination .blog-list-pagination-icon {
+    stroke: #fff
+}
+
+.bright .blog-basic-grid .blog-more-link {
+    color: #fff
+}
+
+.bright .blog-basic-grid .blog-more-link::after {
+    background: #fff
+}
+
+.bright .blog-basic-grid .blog-title {
+    color: #fff
+}
+
+.bright .blog-basic-grid .blog-categories-list a, .bright .blog-basic-grid .blog-author, .bright .blog-basic-grid .blog-date, .bright .blog-basic-grid .blog-meta-delimiter {
+    color: #fff
+}
+
+.bright .blog-basic-grid .blog-excerpt {
+    color: #fff
+}
+
+.bright .blog-basic-grid .blog-list-pagination {
+    color: #fff
+}
+
+.bright .blog-basic-grid .blog-list-pagination .blog-list-pagination-icon {
+    stroke: #fff
+}
+
+.bright .blog-masonry .blog-more-link {
+    color: #fff
+}
+
+.bright .blog-masonry .blog-more-link::after {
+    background: #fff
+}
+
+.bright .blog-masonry .blog-title {
+    color: #fff
+}
+
+.bright .blog-masonry .blog-categories-list a, .bright .blog-masonry .blog-author, .bright .blog-masonry .blog-date, .bright .blog-masonry .blog-meta-delimiter {
+    color: #fff
+}
+
+.bright .blog-masonry .blog-excerpt {
+    color: #fff
+}
+
+.bright .blog-masonry .blog-list-pagination {
+    color: #fff
+}
+
+.bright .blog-masonry .blog-list-pagination .blog-list-pagination-icon {
+    stroke: #fff
+}
+
+.bright .blog-side-by-side .blog-more-link {
+    color: #fff
+}
+
+.bright .blog-side-by-side .blog-more-link::after {
+    background: #fff
+}
+
+.bright .blog-side-by-side .blog-title {
+    color: #fff
+}
+
+.bright .blog-side-by-side .blog-categories-list a, .bright .blog-side-by-side .blog-author, .bright .blog-side-by-side .blog-date, .bright .blog-side-by-side .blog-meta-delimiter {
+    color: #fff
+}
+
+.bright .blog-side-by-side .blog-excerpt {
+    color: #fff
+}
+
+.bright .blog-side-by-side .blog-list-pagination {
+    color: #fff
+}
+
+.bright .blog-side-by-side .blog-list-pagination .blog-list-pagination-icon {
+    stroke: #fff
+}
+
+.bright .blog-single-column .blog-more-link {
+    color: #fff
+}
+
+.bright .blog-single-column .blog-more-link::after {
+    background: #fff
+}
+
+.bright .blog-single-column .blog-title {
+    color: #fff
+}
+
+.bright .blog-single-column .blog-categories-list a, .bright .blog-single-column .blog-author, .bright .blog-single-column .blog-date, .bright .blog-single-column .blog-meta-delimiter {
+    color: #fff
+}
+
+.bright .blog-single-column .blog-excerpt {
+    color: #fff
+}
+
+.bright .blog-single-column .blog-list-pagination {
+    color: #fff
+}
+
+.bright .blog-single-column .blog-list-pagination .blog-list-pagination-icon {
+    stroke: #fff
+}
+
+.bright .blog-item-wrapper .blog-item-title h1.entry-title {
+    color: #fff
+}
+
+.bright .blog-item-wrapper .blog-meta-item, .bright .blog-item-wrapper .blog-meta-item a, .bright .blog-item-wrapper .blog-meta-item span {
+    color: #fff
+}
+
+.bright .blog-item-wrapper .author-name, .bright .blog-item-wrapper .author-website, .bright .blog-item-wrapper .author-bio {
+    color: #fff
+}
+
+.bright .blog-item-wrapper #comments .header-controls, .bright .blog-item-wrapper #comments .header-controls .comment-count, .bright .blog-item-wrapper .comment-header .user-info, .bright .blog-item-wrapper .comment-header .controls {
+    color: #fff
+}
+
+.bright .blog-item-wrapper .comment-body * {
+    color: #fff
+}
+
+.bright .item-pagination[data-collection-type^="blog"], .bright.item-pagination[data-collection-type^="blog"] {
+    background-color: #9c9a81
+}
+
+.bright .item-pagination[data-collection-type^="blog"] .item-pagination-icon svg, .bright.item-pagination[data-collection-type^="blog"] .item-pagination-icon svg {
+    stroke: #fff
+}
+
+.bright .item-pagination[data-collection-type^="blog"] .item-pagination-prev-next, .bright.item-pagination[data-collection-type^="blog"] .item-pagination-prev-next {
+    color: #fff
+}
+
+.bright .item-pagination[data-collection-type^="blog"] .item-pagination-title, .bright.item-pagination[data-collection-type^="blog"] .item-pagination-title {
+    color: #fff
+}
+
+.bright .products.collection-content-wrapper .nested-category-breadcrumb-link {
+    color: #fff
+}
+
+.bright .products.collection-content-wrapper .ProductItem-nav-breadcrumb-link {
+    color: #fff
+}
+
+.bright .products.collection-content-wrapper .grid-item.on-sale .sqs-money-native {
+    color: #fff
+}
+
+.bright .products.collection-content-wrapper .grid-item.on-sale .original-price .sqs-money-native {
+    color: #fff
+}
+
+.bright .products.collection-content-wrapper .product-mark.sale {
+    color: #fff
+}
+
+.bright .products.collection-content-wrapper .list-pagination .product-list-pagination-icon svg {
+    stroke: #fff
+}
+
+.bright .products.collection-content-wrapper .category-filter-delimiter {
+    color: #fff
+}
+
+.bright .products.collection-content-wrapper .category-filter-link::after {
+    background: #fff
+}
+
+@media (hover: hover) {
+    .bright .products.collection-content-wrapper .category-filter-link:hover {
+        color: #fff
+    }
+}
+
+.bright .products.collection-content-wrapper .category-filter-link.category-filter-link-all, .bright .products.collection-content-wrapper .category-filter-link.active {
+    color: #fff
+}
+
+.bright .products.collection-content-wrapper .category-filter-list.other-active .category-filter-link {
+    color: #fff
+}
+
+@media (hover: hover) {
+    .bright .products.collection-content-wrapper .category-filter-list.other-active .category-filter-link:hover {
+        color: #fff
+    }
+}
+
+.bright .products.collection-content-wrapper .category-filter-list.other-active .category-filter-link.active {
+    color: #fff
+}
+
+.bright .products.collection-content-wrapper .grid-main-meta .grid-title {
+    color: #fff
+}
+
+.bright .products.collection-content-wrapper .grid-main-meta .grid-prices {
+    color: #fff
+}
+
+.bright .products.collection-content-wrapper .grid-meta-status {
+    color: #fff
+}
+
+.bright .products.collection-content-wrapper .product-scarcity {
+    color: #fff
+}
+
+.bright .on-sale .product-details .sqs-money-native {
+    color: #fff
+}
+
+.bright .on-sale .product-details .original-price .sqs-money-native {
+    color: #fff
+}
+
+.bright .ProductItem.on-sale .ProductItem-details .product-price .sqs-money-native {
+    color: #fff
+}
+
+.bright .ProductItem .ProductItem-details {
+    color: #fff
+}
+
+.bright .ProductItem .ProductItem-details h1.ProductItem-details-title {
+    color: #fff
+}
+
+.bright .ProductItem .ProductItem-details .product-price {
+    color: #fff
+}
+
+.bright .ProductItem .ProductItem-details .product-price, .bright .ProductItem .ProductItem-details .product-price .original-price .sqs-money-native {
+    color: #fff
+}
+
+.bright .ProductItem .ProductItem-details .product-scarcity {
+    color: #fff
+}
+
+.bright .ProductItem .ProductItem-details .variant-option, .bright .ProductItem .ProductItem-details .product-quantity-input, .bright .ProductItem .ProductItem-details .product-quantity-input input {
+    color: #fff
+}
+
+.bright .ProductItem .ProductItem-details .variant-select-wrapper:after {
+    border-bottom-color: #fff;
+    border-right-color: #fff
+}
+
+.bright .ProductItem .ProductItem-nav-breadcrumb span, .bright .ProductItem .ProductItem-nav-pagination span, .bright .ProductItem .ProductItem-nav-breadcrumb a, .bright .ProductItem .ProductItem-nav-pagination a {
+    color: #fff
+}
+
+.bright .ProductItem .product-item-gallery-carousel-control::after {
+    border-color: #000
+}
+
+.bright .ProductItem .ProductItem-gallery-current-slide-indicator {
+    color: #000
+}
+
+.bright .ProductItem .ProductItem-gallery-scroll::after {
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 0) 0%, #9c9a81 100%)
+}
+
+.bright .sqs-product-quick-view-content {
+    background-color: #9c9a81
+}
+
+.bright [data-quick-view-lightbox-colors="true"] .sqs-product-quick-view-content {
+    background-color: #fff
+}
+
+.bright [data-quick-view-lightbox-colors="true"] .sqs-product-quick-view-lightbox .ProductItem-details {
+    color: #000
+}
+
+.bright [data-quick-view-lightbox-colors="true"] .sqs-product-quick-view-lightbox .ProductItem-details .ProductItem-details-title {
+    color: #000 !important
+}
+
+.bright [data-quick-view-lightbox-colors="true"] .sqs-product-quick-view-lightbox .ProductItem-details .product-price, .bright [data-quick-view-lightbox-colors="true"] .sqs-product-quick-view-lightbox .ProductItem-details .variant-option-title, .bright [data-quick-view-lightbox-colors="true"] .sqs-product-quick-view-lightbox .ProductItem-details .variant-option, .bright [data-quick-view-lightbox-colors="true"] .sqs-product-quick-view-lightbox .ProductItem-details .quantity-label, .bright [data-quick-view-lightbox-colors="true"] .sqs-product-quick-view-lightbox .ProductItem-details .product-quantity-input input {
+    color: #000
+}
+
+.bright [data-quick-view-lightbox-colors="true"] .sqs-product-quick-view-lightbox .ProductItem-details .variant-select-wrapper:after {
+    border-bottom-color: #000;
+    border-right-color: #000
+}
+
+.bright .product-block .product-quantity-input input {
+    color: #fff !important
+}
+
+.bright .item-pagination[data-collection-type^="events"], .bright.item-pagination[data-collection-type^="events"] {
+    background-color: #9c9a81
+}
+
+.bright .item-pagination[data-collection-type^="events"] .item-pagination-icon svg, .bright.item-pagination[data-collection-type^="events"] .item-pagination-icon svg {
+    stroke: #fff
+}
+
+.bright .item-pagination[data-collection-type^="events"] .events-item-pagination-date, .bright.item-pagination[data-collection-type^="events"] .events-item-pagination-date {
+    color: #fff
+}
+
+.bright .item-pagination[data-collection-type^="events"] .item-pagination-title, .bright.item-pagination[data-collection-type^="events"] .item-pagination-title {
+    color: #fff
+}
+
+.bright .sqs-block-collectionlink .collectionlink-title {
+    color: #fff
+}
+
+.bright .image-overlay, .bright .sqs-image-content::after {
+    background-color: #9c9a81
+}
+
+.bright .sqs-block-image .design-layout-poster .sqs-image-content::after, .bright .sqs-block-image .design-layout-poster .image-overlay {
+    background-color: #363317
+}
+
+.bright .sqs-block-image .design-layout-poster .image-title * {
+    color: #fff
+}
+
+.bright .sqs-block-image .design-layout-poster .image-subtitle * {
+    color: #fff
+}
+
+.bright .sqs-block-image .design-layout-poster .image-title a, .bright .sqs-block-image .design-layout-poster .image-subtitle a {
+    color: #fff
+}
+
+@media (hover: hover) {
+    .bright .sqs-block-image .design-layout-poster .image-title a:hover, .bright .sqs-block-image .design-layout-poster .image-subtitle a:hover {
+        opacity: .8
+    }
+}
+
+.bright .sqs-block-image .design-layout-poster .image-title * {
+    background-color: rgba(156, 154, 129, 0);
+    box-shadow: .2em 0 0 rgba(156, 154, 129, 0), -.2em 0 0 rgba(156, 154, 129, 0)
+}
+
+.primary-button-style-solid .bright .sqs-block-image .design-layout-poster .image-button .sqs-button-element--primary, .secondary-button-style-solid .bright .sqs-block-image .design-layout-poster .image-button .sqs-button-element--secondary, .tertiary-button-style-solid .bright .sqs-block-image .design-layout-poster .image-button .sqs-button-element--tertiary {
+    background: #fff;
+    color: #9c9a81
+}
+
+.primary-button-style-solid.primary-button-shape-underline .bright .sqs-block-image .design-layout-poster .image-button .sqs-button-element--primary, .secondary-button-style-solid.secondary-button-shape-underline .bright .sqs-block-image .design-layout-poster .image-button .sqs-button-element--secondary, .tertiary-button-style-solid.tertiary-button-shape-underline .bright .sqs-block-image .design-layout-poster .image-button .sqs-button-element--tertiary {
+    background: #9c9a81;
+    color: #fff;
+    border-color: #fff
+}
+
+.tweak-global-animations-animation-type-flex.primary-button-style-solid:not(.primary-button-shape-underline) .bright .sqs-block-image .design-layout-poster .image-button .sqs-button-element--primary:hover {
+    color: #fff
+}
+
+.tweak-global-animations-animation-type-flex.primary-button-style-solid:not(.primary-button-shape-underline) .bright .sqs-block-image .design-layout-poster .image-button .sqs-button-element--primary::before {
+    border-color: #fff;
+    background-color: #9c9a81
+}
+
+.primary-button-style-outline .bright .sqs-block-image .design-layout-poster .image-button .sqs-button-element--primary, .secondary-button-style-outline .bright .sqs-block-image .design-layout-poster .image-button .sqs-button-element--secondary, .tertiary-button-style-outline .bright .sqs-block-image .design-layout-poster .image-button .sqs-button-element--tertiary {
+    background: transparent;
+    color: #fff;
+    border: 2px solid #fff
+}
+
+@media (hover: hover) {
+    .primary-button-style-outline .bright .sqs-block-image .design-layout-poster .image-button .sqs-button-element--primary:hover, .secondary-button-style-outline .bright .sqs-block-image .design-layout-poster .image-button .sqs-button-element--secondary:hover, .tertiary-button-style-outline .bright .sqs-block-image .design-layout-poster .image-button .sqs-button-element--tertiary:hover {
+        background: #fff;
+        color: #9c9a81
+    }
+}
+
+@media (hover: hover) {
+    .primary-button-style-outline.primary-button-shape-underline .bright .sqs-block-image .design-layout-poster .image-button .sqs-button-element--primary:hover, .secondary-button-style-outline.secondary-button-shape-underline .bright .sqs-block-image .design-layout-poster .image-button .sqs-button-element--secondary:hover, .tertiary-button-style-outline.tertiary-button-shape-underline .bright .sqs-block-image .design-layout-poster .image-button .sqs-button-element--tertiary:hover {
+        border-color: #9c9a81
+    }
+}
+
+.tweak-global-animations-animation-type-flex.primary-button-style-outline .bright .sqs-block-image .design-layout-poster .image-button .sqs-button-element--primary:hover {
+    color: #9c9a81
+}
+
+.tweak-global-animations-animation-type-flex.primary-button-style-outline .bright .sqs-block-image .design-layout-poster .image-button .sqs-button-element--primary::before {
+    border-color: #fff;
+    background-color: #fff
+}
+
+.bright .sqs-block-image .design-layout-card .sqs-image-content::after, .bright .sqs-block-image .design-layout-card .image-overlay {
+    background-color: #363317
+}
+
+.bright .sqs-block-image .design-layout-card .image-title * {
+    color: #fff
+}
+
+.bright .sqs-block-image .design-layout-card .image-subtitle * {
+    color: #fff
+}
+
+.bright .sqs-block-image .design-layout-card .image-title a, .bright .sqs-block-image .design-layout-card .image-subtitle a {
+    color: #fff
+}
+
+@media (hover: hover) {
+    .bright .sqs-block-image .design-layout-card .image-title a:hover, .bright .sqs-block-image .design-layout-card .image-subtitle a:hover {
+        opacity: .8
+    }
+}
+
+.bright .sqs-block-image .design-layout-card .image-title * {
+    background-color: rgba(156, 154, 129, 0);
+    box-shadow: .2em 0 0 rgba(156, 154, 129, 0), -.2em 0 0 rgba(156, 154, 129, 0)
+}
+
+.primary-button-style-solid .bright .sqs-block-image .design-layout-card .image-button .sqs-button-element--primary, .secondary-button-style-solid .bright .sqs-block-image .design-layout-card .image-button .sqs-button-element--secondary, .tertiary-button-style-solid .bright .sqs-block-image .design-layout-card .image-button .sqs-button-element--tertiary {
+    background: #fff;
+    color: #9c9a81
+}
+
+.primary-button-style-solid.primary-button-shape-underline .bright .sqs-block-image .design-layout-card .image-button .sqs-button-element--primary, .secondary-button-style-solid.secondary-button-shape-underline .bright .sqs-block-image .design-layout-card .image-button .sqs-button-element--secondary, .tertiary-button-style-solid.tertiary-button-shape-underline .bright .sqs-block-image .design-layout-card .image-button .sqs-button-element--tertiary {
+    background: #9c9a81;
+    color: #fff;
+    border-color: #fff
+}
+
+.tweak-global-animations-animation-type-flex.primary-button-style-solid:not(.primary-button-shape-underline) .bright .sqs-block-image .design-layout-card .image-button .sqs-button-element--primary:hover {
+    color: #fff
+}
+
+.tweak-global-animations-animation-type-flex.primary-button-style-solid:not(.primary-button-shape-underline) .bright .sqs-block-image .design-layout-card .image-button .sqs-button-element--primary::before {
+    border-color: #fff;
+    background-color: #9c9a81
+}
+
+.primary-button-style-outline .bright .sqs-block-image .design-layout-card .image-button .sqs-button-element--primary, .secondary-button-style-outline .bright .sqs-block-image .design-layout-card .image-button .sqs-button-element--secondary, .tertiary-button-style-outline .bright .sqs-block-image .design-layout-card .image-button .sqs-button-element--tertiary {
+    background: transparent;
+    color: #fff;
+    border: 2px solid #fff
+}
+
+@media (hover: hover) {
+    .primary-button-style-outline .bright .sqs-block-image .design-layout-card .image-button .sqs-button-element--primary:hover, .secondary-button-style-outline .bright .sqs-block-image .design-layout-card .image-button .sqs-button-element--secondary:hover, .tertiary-button-style-outline .bright .sqs-block-image .design-layout-card .image-button .sqs-button-element--tertiary:hover {
+        background: #fff;
+        color: #9c9a81
+    }
+}
+
+@media (hover: hover) {
+    .primary-button-style-outline.primary-button-shape-underline .bright .sqs-block-image .design-layout-card .image-button .sqs-button-element--primary:hover, .secondary-button-style-outline.secondary-button-shape-underline .bright .sqs-block-image .design-layout-card .image-button .sqs-button-element--secondary:hover, .tertiary-button-style-outline.tertiary-button-shape-underline .bright .sqs-block-image .design-layout-card .image-button .sqs-button-element--tertiary:hover {
+        border-color: #9c9a81
+    }
+}
+
+.tweak-global-animations-animation-type-flex.primary-button-style-outline .bright .sqs-block-image .design-layout-card .image-button .sqs-button-element--primary:hover {
+    color: #9c9a81
+}
+
+.tweak-global-animations-animation-type-flex.primary-button-style-outline .bright .sqs-block-image .design-layout-card .image-button .sqs-button-element--primary::before {
+    border-color: #fff;
+    background-color: #fff
+}
+
+.bright .sqs-block-image .design-layout-overlap .sqs-image-content::after, .bright .sqs-block-image .design-layout-overlap .image-overlay {
+    background-color: #363317
+}
+
+.bright .sqs-block-image .design-layout-overlap .image-title * {
+    color: #fff
+}
+
+.bright .sqs-block-image .design-layout-overlap .image-subtitle * {
+    color: #fff
+}
+
+.bright .sqs-block-image .design-layout-overlap .image-title a, .bright .sqs-block-image .design-layout-overlap .image-subtitle a {
+    color: #fff
+}
+
+@media (hover: hover) {
+    .bright .sqs-block-image .design-layout-overlap .image-title a:hover, .bright .sqs-block-image .design-layout-overlap .image-subtitle a:hover {
+        opacity: .8
+    }
+}
+
+.bright .sqs-block-image .design-layout-overlap .image-title * {
+    background-color: #9c9a81;
+    box-shadow: .2em 0 0 #9c9a81, -.2em 0 0 #9c9a81
+}
+
+.primary-button-style-solid .bright .sqs-block-image .design-layout-overlap .image-button .sqs-button-element--primary, .secondary-button-style-solid .bright .sqs-block-image .design-layout-overlap .image-button .sqs-button-element--secondary, .tertiary-button-style-solid .bright .sqs-block-image .design-layout-overlap .image-button .sqs-button-element--tertiary {
+    background: #fff;
+    color: #9c9a81
+}
+
+.primary-button-style-solid.primary-button-shape-underline .bright .sqs-block-image .design-layout-overlap .image-button .sqs-button-element--primary, .secondary-button-style-solid.secondary-button-shape-underline .bright .sqs-block-image .design-layout-overlap .image-button .sqs-button-element--secondary, .tertiary-button-style-solid.tertiary-button-shape-underline .bright .sqs-block-image .design-layout-overlap .image-button .sqs-button-element--tertiary {
+    background: #9c9a81;
+    color: #fff;
+    border-color: #fff
+}
+
+.tweak-global-animations-animation-type-flex.primary-button-style-solid:not(.primary-button-shape-underline) .bright .sqs-block-image .design-layout-overlap .image-button .sqs-button-element--primary:hover {
+    color: #fff
+}
+
+.tweak-global-animations-animation-type-flex.primary-button-style-solid:not(.primary-button-shape-underline) .bright .sqs-block-image .design-layout-overlap .image-button .sqs-button-element--primary::before {
+    border-color: #fff;
+    background-color: #9c9a81
+}
+
+.primary-button-style-outline .bright .sqs-block-image .design-layout-overlap .image-button .sqs-button-element--primary, .secondary-button-style-outline .bright .sqs-block-image .design-layout-overlap .image-button .sqs-button-element--secondary, .tertiary-button-style-outline .bright .sqs-block-image .design-layout-overlap .image-button .sqs-button-element--tertiary {
+    background: transparent;
+    color: #fff;
+    border: 2px solid #fff
+}
+
+@media (hover: hover) {
+    .primary-button-style-outline .bright .sqs-block-image .design-layout-overlap .image-button .sqs-button-element--primary:hover, .secondary-button-style-outline .bright .sqs-block-image .design-layout-overlap .image-button .sqs-button-element--secondary:hover, .tertiary-button-style-outline .bright .sqs-block-image .design-layout-overlap .image-button .sqs-button-element--tertiary:hover {
+        background: #fff;
+        color: #9c9a81
+    }
+}
+
+@media (hover: hover) {
+    .primary-button-style-outline.primary-button-shape-underline .bright .sqs-block-image .design-layout-overlap .image-button .sqs-button-element--primary:hover, .secondary-button-style-outline.secondary-button-shape-underline .bright .sqs-block-image .design-layout-overlap .image-button .sqs-button-element--secondary:hover, .tertiary-button-style-outline.tertiary-button-shape-underline .bright .sqs-block-image .design-layout-overlap .image-button .sqs-button-element--tertiary:hover {
+        border-color: #9c9a81
+    }
+}
+
+.tweak-global-animations-animation-type-flex.primary-button-style-outline .bright .sqs-block-image .design-layout-overlap .image-button .sqs-button-element--primary:hover {
+    color: #9c9a81
+}
+
+.tweak-global-animations-animation-type-flex.primary-button-style-outline .bright .sqs-block-image .design-layout-overlap .image-button .sqs-button-element--primary::before {
+    border-color: #fff;
+    background-color: #fff
+}
+
+.bright .sqs-block-image .design-layout-collage .sqs-image-content::after, .bright .sqs-block-image .design-layout-collage .image-overlay {
+    background-color: #363317
+}
+
+.bright .sqs-block-image .design-layout-collage .image-card {
+    background-color: #fff
+}
+
+.bright .sqs-block-image .design-layout-collage .image-title * {
+    color: #9c9a81
+}
+
+.bright .sqs-block-image .design-layout-collage .image-subtitle * {
+    color: #9c9a81
+}
+
+.bright .sqs-block-image .design-layout-collage .image-title a, .bright .sqs-block-image .design-layout-collage .image-subtitle a {
+    color: #9c9a81
+}
+
+@media (hover: hover) {
+    .bright .sqs-block-image .design-layout-collage .image-title a:hover, .bright .sqs-block-image .design-layout-collage .image-subtitle a:hover {
+        opacity: .8
+    }
+}
+
+.bright .sqs-block-image .design-layout-collage .image-title * {
+    background-color: rgba(156, 154, 129, 0);
+    box-shadow: .2em 0 0 rgba(156, 154, 129, 0), -.2em 0 0 rgba(156, 154, 129, 0)
+}
+
+.primary-button-style-solid .bright .sqs-block-image .design-layout-collage .image-button .sqs-button-element--primary, .secondary-button-style-solid .bright .sqs-block-image .design-layout-collage .image-button .sqs-button-element--secondary, .tertiary-button-style-solid .bright .sqs-block-image .design-layout-collage .image-button .sqs-button-element--tertiary {
+    background: #9c9a81;
+    color: #fff
+}
+
+.primary-button-style-solid.primary-button-shape-underline .bright .sqs-block-image .design-layout-collage .image-button .sqs-button-element--primary, .secondary-button-style-solid.secondary-button-shape-underline .bright .sqs-block-image .design-layout-collage .image-button .sqs-button-element--secondary, .tertiary-button-style-solid.tertiary-button-shape-underline .bright .sqs-block-image .design-layout-collage .image-button .sqs-button-element--tertiary {
+    background: #fff;
+    color: #9c9a81;
+    border-color: #9c9a81
+}
+
+.tweak-global-animations-animation-type-flex.primary-button-style-solid:not(.primary-button-shape-underline) .bright .sqs-block-image .design-layout-collage .image-button .sqs-button-element--primary:hover {
+    color: #9c9a81
+}
+
+.tweak-global-animations-animation-type-flex.primary-button-style-solid:not(.primary-button-shape-underline) .bright .sqs-block-image .design-layout-collage .image-button .sqs-button-element--primary::before {
+    border-color: #9c9a81;
+    background-color: #fff
+}
+
+.primary-button-style-outline .bright .sqs-block-image .design-layout-collage .image-button .sqs-button-element--primary, .secondary-button-style-outline .bright .sqs-block-image .design-layout-collage .image-button .sqs-button-element--secondary, .tertiary-button-style-outline .bright .sqs-block-image .design-layout-collage .image-button .sqs-button-element--tertiary {
+    background: transparent;
+    color: #9c9a81;
+    border: 2px solid #9c9a81
+}
+
+@media (hover: hover) {
+    .primary-button-style-outline .bright .sqs-block-image .design-layout-collage .image-button .sqs-button-element--primary:hover, .secondary-button-style-outline .bright .sqs-block-image .design-layout-collage .image-button .sqs-button-element--secondary:hover, .tertiary-button-style-outline .bright .sqs-block-image .design-layout-collage .image-button .sqs-button-element--tertiary:hover {
+        background: #9c9a81;
+        color: #fff
+    }
+}
+
+@media (hover: hover) {
+    .primary-button-style-outline.primary-button-shape-underline .bright .sqs-block-image .design-layout-collage .image-button .sqs-button-element--primary:hover, .secondary-button-style-outline.secondary-button-shape-underline .bright .sqs-block-image .design-layout-collage .image-button .sqs-button-element--secondary:hover, .tertiary-button-style-outline.tertiary-button-shape-underline .bright .sqs-block-image .design-layout-collage .image-button .sqs-button-element--tertiary:hover {
+        border-color: #fff
+    }
+}
+
+.tweak-global-animations-animation-type-flex.primary-button-style-outline .bright .sqs-block-image .design-layout-collage .image-button .sqs-button-element--primary:hover {
+    color: #fff
+}
+
+.tweak-global-animations-animation-type-flex.primary-button-style-outline .bright .sqs-block-image .design-layout-collage .image-button .sqs-button-element--primary::before {
+    border-color: #9c9a81;
+    background-color: #9c9a81
+}
+
+.bright .sqs-block-image .design-layout-stack .sqs-image-content::after, .bright .sqs-block-image .design-layout-stack .image-overlay {
+    background-color: #363317
+}
+
+.bright .sqs-block-image .design-layout-stack .image-title * {
+    color: #fff
+}
+
+.bright .sqs-block-image .design-layout-stack .image-subtitle * {
+    color: #fff
+}
+
+.bright .sqs-block-image .design-layout-stack .image-title a, .bright .sqs-block-image .design-layout-stack .image-subtitle a {
+    color: #fff
+}
+
+@media (hover: hover) {
+    .bright .sqs-block-image .design-layout-stack .image-title a:hover, .bright .sqs-block-image .design-layout-stack .image-subtitle a:hover {
+        opacity: .8
+    }
+}
+
+.bright .sqs-block-image .design-layout-stack .image-title * {
+    background-color: rgba(156, 154, 129, 0);
+    box-shadow: .2em 0 0 rgba(156, 154, 129, 0), -.2em 0 0 rgba(156, 154, 129, 0)
+}
+
+.primary-button-style-solid .bright .sqs-block-image .design-layout-stack .image-button .sqs-button-element--primary, .secondary-button-style-solid .bright .sqs-block-image .design-layout-stack .image-button .sqs-button-element--secondary, .tertiary-button-style-solid .bright .sqs-block-image .design-layout-stack .image-button .sqs-button-element--tertiary {
+    background: #fff;
+    color: #9c9a81
+}
+
+.primary-button-style-solid.primary-button-shape-underline .bright .sqs-block-image .design-layout-stack .image-button .sqs-button-element--primary, .secondary-button-style-solid.secondary-button-shape-underline .bright .sqs-block-image .design-layout-stack .image-button .sqs-button-element--secondary, .tertiary-button-style-solid.tertiary-button-shape-underline .bright .sqs-block-image .design-layout-stack .image-button .sqs-button-element--tertiary {
+    background: #9c9a81;
+    color: #fff;
+    border-color: #fff
+}
+
+.tweak-global-animations-animation-type-flex.primary-button-style-solid:not(.primary-button-shape-underline) .bright .sqs-block-image .design-layout-stack .image-button .sqs-button-element--primary:hover {
+    color: #fff
+}
+
+.tweak-global-animations-animation-type-flex.primary-button-style-solid:not(.primary-button-shape-underline) .bright .sqs-block-image .design-layout-stack .image-button .sqs-button-element--primary::before {
+    border-color: #fff;
+    background-color: #9c9a81
+}
+
+.primary-button-style-outline .bright .sqs-block-image .design-layout-stack .image-button .sqs-button-element--primary, .secondary-button-style-outline .bright .sqs-block-image .design-layout-stack .image-button .sqs-button-element--secondary, .tertiary-button-style-outline .bright .sqs-block-image .design-layout-stack .image-button .sqs-button-element--tertiary {
+    background: transparent;
+    color: #fff;
+    border: 2px solid #fff
+}
+
+@media (hover: hover) {
+    .primary-button-style-outline .bright .sqs-block-image .design-layout-stack .image-button .sqs-button-element--primary:hover, .secondary-button-style-outline .bright .sqs-block-image .design-layout-stack .image-button .sqs-button-element--secondary:hover, .tertiary-button-style-outline .bright .sqs-block-image .design-layout-stack .image-button .sqs-button-element--tertiary:hover {
+        background: #fff;
+        color: #9c9a81
+    }
+}
+
+@media (hover: hover) {
+    .primary-button-style-outline.primary-button-shape-underline .bright .sqs-block-image .design-layout-stack .image-button .sqs-button-element--primary:hover, .secondary-button-style-outline.secondary-button-shape-underline .bright .sqs-block-image .design-layout-stack .image-button .sqs-button-element--secondary:hover, .tertiary-button-style-outline.tertiary-button-shape-underline .bright .sqs-block-image .design-layout-stack .image-button .sqs-button-element--tertiary:hover {
+        border-color: #9c9a81
+    }
+}
+
+.tweak-global-animations-animation-type-flex.primary-button-style-outline .bright .sqs-block-image .design-layout-stack .image-button .sqs-button-element--primary:hover {
+    color: #9c9a81
+}
+
+.tweak-global-animations-animation-type-flex.primary-button-style-outline .bright .sqs-block-image .design-layout-stack .image-button .sqs-button-element--primary::before {
+    border-color: #fff;
+    background-color: #fff
+}
+
+.bright .sqs-block-accordion .accordion-divider {
+    color: #fff
+}
+
+.bright .sqs-block-accordion .accordion-icon-container {
+    color: #fff
+}
+
+.bright .menu-block .menu-select-labels {
+    color: #fff
+}
+
+.bright .menu-block .menu-section-title {
+    color: #fff
+}
+
+.bright .menu-block .menu-item-title {
+    color: #fff
+}
+
+.bright .menu-block .menu-item-description {
+    color: #fff
+}
+
+.bright .menu-block .menu-item-price-bottom {
+    color: #fff
+}
+
+.bright .sqs-block-form .field-list .title {
+    color: #fff
+}
+
+.bright .sqs-block-form .field-list .description {
+    color: #fff
+}
+
+.bright .sqs-block-form .field-list .caption {
+    color: #fff
+}
+
+.bright .sqs-block-form .field-list ::placeholder {
+    color: #737373;
+    opacity: 1
+}
+
+.bright .sqs-block-form .field-list :-ms-input-placeholder {
+    color: #737373
+}
+
+.bright .sqs-block-form .field-list ::-ms-input-placeholder {
+    color: #737373
+}
+
+.bright .sqs-block-form .field-list .option {
+    color: #fff
+}
+
+.bright .sqs-block-form .field-list .question {
+    color: #fff
+}
+
+.bright .sqs-block-form .sqs-editable-button.sqs-button-element--primary, .with-button-variants .bright .sqs-block-form .sqs-editable-button {
+    background: #fff;
+    color: #9c9a81
+}
+
+.primary-button-style-solid.primary-button-shape-underline .bright .sqs-block-form .sqs-editable-button.sqs-button-element--primary, .secondary-button-style-solid.secondary-button-shape-underline .with-button-variants .bright .sqs-block-form .sqs-editable-button.sqs-button-element--secondary, .tertiary-button-style-solid.tertiary-button-shape-underline .with-button-variants .bright .sqs-block-form .sqs-editable-button.sqs-button-element--tertiary {
+    background: #9c9a81;
+    color: #fff;
+    border-color: #fff
+}
+
+.primary-button-style-outline .bright .sqs-block-form .sqs-editable-button.sqs-button-element--primary, .secondary-button-style-outline .bright .sqs-block-form .sqs-editable-button.sqs-button-element--secondary, .tertiary-button-style-outline .bright .sqs-block-form .sqs-editable-button.sqs-button-element--tertiary {
+    color: #fff;
+    border-color: #fff
+}
+
+@media (hover: hover) {
+    .primary-button-style-outline .bright .sqs-block-form .sqs-editable-button.sqs-button-element--primary:hover, .secondary-button-style-outline .bright .sqs-block-form .sqs-editable-button.sqs-button-element--secondary:hover, .tertiary-button-style-outline .bright .sqs-block-form .sqs-editable-button.sqs-button-element--tertiary:hover {
+        background: #fff;
+        color: #9c9a81
+    }
+}
+
+.primary-button-style-outline.primary-button-shape-underline .bright .sqs-block-form .sqs-editable-button.sqs-button-element--primary:hover, .secondary-button-style-outline.secondary-button-shape-underline .with-button-variants .bright .sqs-block-form .sqs-editable-button.sqs-button-element--secondary:hover, .tertiary-button-style-outline.tertiary-button-shape-underline .with-button-variants .bright .sqs-block-form .sqs-editable-button.sqs-button-element--tertiary:hover {
+    border-color: #9c9a81
+}
+
+.primary-button-style-solid.primary-button-shape-underline .bright .sqs-block-form .sqs-editable-button.sqs-button-element--primary, .secondary-button-style-solid.secondary-button-shape-underline .with-button-variants .bright .sqs-block-form .sqs-editable-button.sqs-button-element--secondary, .tertiary-button-style-solid.tertiary-button-shape-underline .with-button-variants .bright .sqs-block-form .sqs-editable-button.sqs-button-element--tertiary {
+    background: #9c9a81;
+    color: #fff;
+    border-color: #fff
+}
+
+.bright .sqs-block-quote blockquote {
+    color: #fff
+}
+
+.bright .sqs-block-quote .source {
+    color: #fff
+}
+
+.bright .sqs-block-newsletter .newsletter-form-header-title {
+    color: #fff
+}
+
+.bright .sqs-block-newsletter .newsletter-form-header-description {
+    color: #fff
+}
+
+.bright .sqs-block-newsletter .newsletter-form-button {
+    background-color: #fff !important;
+    color: #9c9a81 !important
+}
+
+.primary-button-style-outline .bright .sqs-block-newsletter .newsletter-form-button.sqs-button-element--primary, .secondary-button-style-outline .bright .sqs-block-newsletter .newsletter-form-button.sqs-button-element--secondary, .tertiary-button-style-outline .bright .sqs-block-newsletter .newsletter-form-button.sqs-button-element--tertiary {
+    color: #fff !important;
+    border-color: #fff !important
+}
+
+@media (hover: hover) {
+    .primary-button-style-outline .bright .sqs-block-newsletter .newsletter-form-button.sqs-button-element--primary:hover, .secondary-button-style-outline .bright .sqs-block-newsletter .newsletter-form-button.sqs-button-element--secondary:hover, .tertiary-button-style-outline .bright .sqs-block-newsletter .newsletter-form-button.sqs-button-element--tertiary:hover {
+        background-color: #fff !important;
+        color: #9c9a81 !important
+    }
+}
+
+.primary-button-style-outline.primary-button-shape-underline .bright .sqs-block-newsletter .newsletter-form-button.sqs-button-element--primary:hover, .secondary-button-style-outline.secondary-button-shape-underline .bright .sqs-block-newsletter .newsletter-form-button.sqs-button-element--secondary:hover, .tertiary-button-style-outline.tertiary-button-shape-underline .bright .sqs-block-newsletter .newsletter-form-button.sqs-button-element--tertiary:hover {
+    border-color: #9c9a81 !important
+}
+
+.primary-button-style-solid.primary-button-shape-underline .bright .sqs-block-newsletter .newsletter-form-button.sqs-button-element--primary, .secondary-button-style-solid.secondary-button-shape-underline .bright .sqs-block-newsletter .newsletter-form-button.sqs-button-element--secondary, .tertiary-button-style-solid.tertiary-button-shape-underline .bright .sqs-block-newsletter .newsletter-form-button.sqs-button-element--tertiary {
+    background-color: #9c9a81 !important;
+    color: #fff !important;
+    border-color: #fff
+}
+
+.tweak-global-animations-animation-type-flex.primary-button-style-solid .bright .sqs-block-newsletter .newsletter-form-button.sqs-button-element--primary:hover {
+    color: #fff !important
+}
+
+.tweak-global-animations-animation-type-flex.primary-button-style-solid .bright .sqs-block-newsletter .newsletter-form-button.sqs-button-element--primary::before {
+    border-color: #fff !important;
+    background-color: #9c9a81 !important
+}
+
+.tweak-global-animations-animation-type-flex.primary-button-style-outline .bright .sqs-block-newsletter .newsletter-form-button.sqs-button-element--primary:hover {
+    color: #9c9a81 !important
+}
+
+.tweak-global-animations-animation-type-flex.primary-button-style-outline .bright .sqs-block-newsletter .newsletter-form-button.sqs-button-element--primary::before {
+    border-color: #fff !important;
+    background-color: #fff !important
+}
+
+.bright .sqs-block-newsletter .newsletter-form-footnote {
+    color: #fff !important
+}
+
+.bright .sqs-block-summary-v2 .summary-header-text {
+    color: #fff
+}
+
+.bright .sqs-block-summary-v2 .summary-title {
+    color: #fff
+}
+
+.bright .sqs-block-summary-v2 .summary-excerpt {
+    color: #fff
+}
+
+.bright .sqs-block-summary-v2 .summary-read-more-link {
+    color: #fff
+}
+
+.bright .sqs-block-summary-v2 .summary-metadata--primary {
+    color: #fff
+}
+
+.bright .sqs-block-summary-v2 .summary-metadata--secondary {
+    color: #fff
+}
+
+.bright .product-scarcity {
+    color: #fff
+}
+
+.bright .socialaccountlinks-v2-block .social-icons-style-regular .sqs-use--icon, .bright .social-account-links-v2-block .social-icons-style-regular .sqs-use--icon {
+    fill: #fff
+}
+
+.bright .socialaccountlinks-v2-block .social-icons-style-knockout .sqs-use--mask, .bright .social-account-links-v2-block .social-icons-style-knockout .sqs-use--mask {
+    fill: #fff
+}
+
+.bright .socialaccountlinks-v2-block .social-icons-style-solid .sqs-svg-icon--wrapper, .bright .social-account-links-v2-block .social-icons-style-solid .sqs-svg-icon--wrapper {
+    background-color: #fff
+}
+
+.bright .socialaccountlinks-v2-block .social-icons-style-solid .sqs-use--icon, .bright .social-account-links-v2-block .social-icons-style-solid .sqs-use--icon {
+    fill: #9c9a81
+}
+
+.bright .socialaccountlinks-v2-block .social-icons-style-border .sqs-svg-icon--wrapper, .bright .social-account-links-v2-block .social-icons-style-border .sqs-svg-icon--wrapper {
+    border-color: #fff
+}
+
+.bright .socialaccountlinks-v2-block .social-icons-style-border .sqs-use--icon, .bright .social-account-links-v2-block .social-icons-style-border .sqs-use--icon {
+    fill: #fff
+}
+
+.sqsrte-text-color--white {
+   color: hsl(0, 100%, 100%);
+}
+
+.sqsrte-text-color--black {
+    color: hsl(0, 100%, 0%);
+}
+
+
+.sqsrte-text-color--accent {
+    color: hsl(55, 12%, 56%);
+}
+
+
+.sqsrte-text-color--lightAccent {
+    color: #f6f5ea;
+}
+
+
+.sqsrte-text-color--darkAccent {
+    color: #363317;
+}
+
+.content #menu{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
